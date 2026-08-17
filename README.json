@@ -19,7 +19,7 @@
             "last_commit": "2026-06-25T20:49:52Z",
             "owner": "prusa3d",
             "repo": "PrusaSlicer",
-            "stars": 9238
+            "stars": 9239
           }
         },
         {
@@ -69,10 +69,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T09:10:34Z",
+            "last_commit": "2026-08-16T12:08:34Z",
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17579
+            "stars": 17584
           }
         },
         {
@@ -83,10 +83,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T11:41:19Z",
+            "last_commit": "2026-08-16T12:11:23Z",
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 14987
+            "stars": 14988
           }
         },
         {
@@ -97,16 +97,16 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-04T16:37:00Z",
+            "last_commit": "2026-08-16T10:14:44Z",
             "owner": "LMMS",
             "repo": "lmms",
-            "stars": 10253
+            "stars": 10257
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "9940⭐ 365🍴 EasyEffects) - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.",
+          "description": "9950⭐ 366🍴 EasyEffects) - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-15T17:38:03Z",
             "owner": "wwmm",
             "repo": "easyeffects",
-            "stars": 9950
+            "stars": 9958
           }
         },
         {
@@ -125,10 +125,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T04:16:53Z",
+            "last_commit": "2026-08-16T20:10:03Z",
             "owner": "mixxxdj",
             "repo": "mixxx",
-            "stars": 7039
+            "stars": 7045
           }
         },
         {
@@ -139,10 +139,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T18:55:46Z",
+            "last_commit": "2026-08-16T09:08:40Z",
             "owner": "Ardour",
             "repo": "ardour",
-            "stars": 5184
+            "stars": 5188
           }
         },
         {
@@ -229,10 +229,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-15T16:02:00Z",
+            "last_commit": "2026-08-16T09:07:33Z",
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48385
+            "stars": 48425
           }
         },
         {
@@ -243,10 +243,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:50:34Z",
+            "last_commit": "2026-08-17T01:48:30Z",
             "owner": "pear-devs",
             "repo": "pear-desktop",
-            "stars": 33073
+            "stars": 33088
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-08-16T00:50:31Z",
             "owner": "nukeop",
             "repo": "nuclear",
-            "stars": 18287
+            "stars": 18291
           }
         },
         {
@@ -271,10 +271,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:50:43Z",
+            "last_commit": "2026-08-17T04:18:17Z",
             "owner": "beetbox",
             "repo": "beets",
-            "stars": 15544
+            "stars": 15548
           }
         },
         {
@@ -285,10 +285,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-29T16:06:04Z",
+            "last_commit": "2026-08-16T20:47:51Z",
             "owner": "mopidy",
             "repo": "mopidy",
-            "stars": 8560
+            "stars": 8559
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2026-08-12T19:05:38Z",
             "owner": "cmus",
             "repo": "cmus",
-            "stars": 6207
+            "stars": 6210
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2026-08-09T11:23:16Z",
             "owner": "harmonoid",
             "repo": "harmonoid",
-            "stars": 4687
+            "stars": 4689
           }
         },
         {
@@ -341,10 +341,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T18:41:27Z",
+            "last_commit": "2026-08-16T21:05:37Z",
             "owner": "strawberrymusicplayer",
             "repo": "strawberry",
-            "stars": 3895
+            "stars": 3896
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-13T11:23:12Z",
             "owner": "staniel359",
             "repo": "muffon",
-            "stars": 2212
+            "stars": 2214
           }
         },
         {
@@ -414,13 +414,13 @@
             "last_commit": "2026-08-02T20:33:33Z",
             "owner": "quodlibet",
             "repo": "quodlibet",
-            "stars": 1749
+            "stars": 1750
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1718⭐ 99🍴 Tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.",
+          "description": "1717⭐ 98🍴 Tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -456,7 +456,7 @@
             "last_commit": "2026-08-15T10:04:47Z",
             "owner": "libretime",
             "repo": "libretime",
-            "stars": 940
+            "stars": 941
           }
         },
         {
@@ -495,7 +495,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T09:40:22Z",
+            "last_commit": "2026-08-16T06:25:58Z",
             "owner": "GNOME",
             "repo": "rhythmbox",
             "stars": 244
@@ -512,7 +512,7 @@
             "last_commit": "2026-08-14T07:39:37Z",
             "owner": "linuxdeepin",
             "repo": "deepin-music",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -622,13 +622,13 @@
             "last_commit": "2026-08-13T23:23:39Z",
             "owner": "spicetify",
             "repo": "cli",
-            "stars": 24083
+            "stars": 24097
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "6340⭐ 295🍴 cava) - Cava is a Cross-platform Audio Visualizer.",
+          "description": "6348⭐ 295🍴 cava) - Cava is a Cross-platform Audio Visualizer.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-01T14:48:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6347
+            "stars": 6349
           }
         },
         {
@@ -650,7 +650,7 @@
             "last_commit": "2026-08-15T13:12:41Z",
             "owner": "metabrainz",
             "repo": "picard",
-            "stars": 5097
+            "stars": 5101
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-01-01T14:37:45Z",
             "owner": "Soundux",
             "repo": "Soundux",
-            "stars": 2026
+            "stars": 2025
           }
         },
         {
@@ -770,16 +770,16 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-23T17:21:17Z",
+            "last_commit": "2026-08-17T00:56:58Z",
             "owner": "Vencord",
             "repo": "Vesktop",
-            "stars": 8300
+            "stars": 8301
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "7384⭐ 613🍴 Caprine) - Elegant Facebook Messenger desktop app.",
+          "description": "7383⭐ 613🍴 Caprine) - Elegant Facebook Messenger desktop app.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -798,10 +798,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T23:28:22Z",
+            "last_commit": "2026-08-16T09:25:45Z",
             "owner": "Chatterino",
             "repo": "chatterino2",
-            "stars": 2542
+            "stars": 2541
           }
         },
         {
@@ -815,13 +815,13 @@
             "last_commit": "2026-07-10T18:31:14Z",
             "owner": "Nheko-Reborn",
             "repo": "nheko",
-            "stars": 2476
+            "stars": 2477
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2436⭐ 110🍴 WebCord) - A Discord and Fosscord web-based client made with the electron.",
+          "description": "2434⭐ 111🍴 WebCord) - A Discord and Fosscord web-based client made with the electron.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -863,7 +863,7 @@
             "last_commit": "2026-06-12T13:36:11Z",
             "owner": "meetfranz",
             "repo": "franz",
-            "stars": 4706
+            "stars": 4708
           }
         },
         {
@@ -874,10 +874,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T01:43:25Z",
+            "last_commit": "2026-08-16T23:40:49Z",
             "owner": "ferdium",
             "repo": "ferdium-app",
-            "stars": 4522
+            "stars": 4528
           }
         },
         {
@@ -911,7 +911,7 @@
             "last_commit": "2026-08-16T02:18:29Z",
             "owner": "Vendicated",
             "repo": "Vencord",
-            "stars": 13884
+            "stars": 13890
           }
         },
         {
@@ -922,10 +922,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:45:35Z",
+            "last_commit": "2026-08-16T17:47:31Z",
             "owner": "BetterDiscord",
             "repo": "BetterDiscord",
-            "stars": 9173
+            "stars": 9176
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2024-11-16T15:22:38Z",
             "owner": "jagrosh",
             "repo": "MusicBot",
-            "stars": 5750
+            "stars": 5749
           }
         },
         {
@@ -953,7 +953,7 @@
             "last_commit": "2026-07-21T16:44:38Z",
             "owner": "Cog-Creators",
             "repo": "Red-DiscordBot",
-            "stars": 5665
+            "stars": 5666
           }
         },
         {
@@ -984,7 +984,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T09:51:26Z",
+            "last_commit": "2026-08-16T20:33:49Z",
             "owner": "weechat",
             "repo": "weechat",
             "stars": 3366
@@ -1032,10 +1032,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:08:49Z",
+            "last_commit": "2026-08-17T02:00:34Z",
             "owner": "RocketChat",
             "repo": "Rocket.Chat",
-            "stars": 45988
+            "stars": 45993
           }
         },
         {
@@ -1049,7 +1049,7 @@
             "last_commit": "2026-08-15T18:39:24Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32621
+            "stars": 32632
           }
         },
         {
@@ -1060,10 +1060,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T16:23:32Z",
+            "last_commit": "2026-08-16T11:01:01Z",
             "owner": "zulip",
             "repo": "zulip",
-            "stars": 25717
+            "stars": 25720
           }
         },
         {
@@ -1074,10 +1074,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:42:02Z",
+            "last_commit": "2026-08-16T22:18:33Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13380
+            "stars": 13382
           }
         },
         {
@@ -1119,7 +1119,7 @@
             "last_commit": "2026-02-11T03:50:56Z",
             "owner": "linagora",
             "repo": "Twake",
-            "stars": 1924
+            "stars": 1923
           }
         }
       ],
@@ -1139,7 +1139,7 @@
             "last_commit": "2026-08-14T18:18:36Z",
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59174
+            "stars": 59193
           }
         },
         {
@@ -1153,7 +1153,7 @@
             "last_commit": "2026-08-01T20:25:16Z",
             "owner": "restic",
             "repo": "restic",
-            "stars": 35540
+            "stars": 35559
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-08-15T21:09:31Z",
             "owner": "kopia",
             "repo": "kopia",
-            "stars": 13875
+            "stars": 13879
           }
         },
         {
@@ -1201,7 +1201,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "4229⭐ 151🍴 Timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
+          "description": "4231⭐ 151🍴 Timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1209,7 +1209,7 @@
             "last_commit": "2026-04-08T17:44:08Z",
             "owner": "linuxmint",
             "repo": "timeshift",
-            "stars": 4231
+            "stars": 4232
           }
         },
         {
@@ -1223,7 +1223,7 @@
             "last_commit": "2026-08-13T15:43:11Z",
             "owner": "rsnapshot",
             "repo": "rsnapshot",
-            "stars": 3663
+            "stars": 3664
           }
         },
         {
@@ -1237,7 +1237,7 @@
             "last_commit": "2026-08-12T18:40:07Z",
             "owner": "bit-team",
             "repo": "backintime",
-            "stars": 2645
+            "stars": 2648
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-04-25T15:34:01Z",
             "owner": "cgsecurity",
             "repo": "testdisk",
-            "stars": 2528
+            "stars": 2529
           }
         },
         {
@@ -1265,7 +1265,7 @@
             "last_commit": "2026-04-25T15:34:01Z",
             "owner": "cgsecurity",
             "repo": "testdisk",
-            "stars": 2528
+            "stars": 2529
           }
         },
         {
@@ -1276,7 +1276,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:42:16Z",
+            "last_commit": "2026-08-16T09:04:26Z",
             "owner": "borgbase",
             "repo": "vorta",
             "stars": 2495
@@ -1296,7 +1296,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "8004⭐ 486🍴 Papirus Icon Theme) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, ...) and other modifications. The theme is available for GTK and KDE.",
+          "description": "8012⭐ 486🍴 Papirus Icon Theme) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, ...) and other modifications. The theme is available for GTK and KDE.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1304,21 +1304,21 @@
             "last_commit": "2026-08-01T14:42:16Z",
             "owner": "PapirusDevelopmentTeam",
             "repo": "papirus-icon-theme",
-            "stars": 8012
+            "stars": 8017
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2026⭐ 186🍴 WhiteSur Icon Theme) - MacOS Big Sur style icon theme for linux desktops.",
+          "description": "2027⭐ 186🍴 WhiteSur Icon Theme) - MacOS Big Sur style icon theme for linux desktops.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-12T01:40:13Z",
+            "last_commit": "2026-08-17T03:32:24Z",
             "owner": "vinceliuice",
             "repo": "WhiteSur-icon-theme",
-            "stars": 2027
+            "stars": 2028
           }
         },
         {
@@ -1366,7 +1366,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1312⭐ 143🍴 Candy Icons) - An icon theme colored with sweet gradients.",
+          "description": "1313⭐ 143🍴 Candy Icons) - An icon theme colored with sweet gradients.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1380,7 +1380,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "931⭐ 49🍴 Qogir Icon Theme) - A flat colorful design icon theme for linux desktops.",
+          "description": "930⭐ 49🍴 Qogir Icon Theme) - A flat colorful design icon theme for linux desktops.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1422,7 +1422,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "709⭐ 52🍴 Reversal Icon Theme) - A colorful design icon theme for linux desktops.",
+          "description": "710⭐ 52🍴 Reversal Icon Theme) - A colorful design icon theme for linux desktops.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1470,7 +1470,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "9166⭐ 731🍴 WhiteSur GTK Theme) - MacOS Big Sur like theme for GNOME desktops.",
+          "description": "9171⭐ 732🍴 WhiteSur GTK Theme) - MacOS Big Sur like theme for GNOME desktops.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1478,7 +1478,7 @@
             "last_commit": "2026-08-10T03:45:17Z",
             "owner": "vinceliuice",
             "repo": "WhiteSur-gtk-theme",
-            "stars": 9170
+            "stars": 9177
           }
         },
         {
@@ -1492,7 +1492,7 @@
             "last_commit": "2026-08-10T03:45:27Z",
             "owner": "vinceliuice",
             "repo": "Orchis-theme",
-            "stars": 4055
+            "stars": 4056
           }
         },
         {
@@ -1512,7 +1512,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1699⭐ 98🍴 Sweet) - Light and dark colorful Gtk3.20+ theme.",
+          "description": "1700⭐ 97🍴 Sweet) - Light and dark colorful Gtk3.20+ theme.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1526,7 +1526,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1662⭐ 121🍴 Qogir) - Qogir is a flat Design theme for GTK.",
+          "description": "1660⭐ 121🍴 Qogir) - Qogir is a flat Design theme for GTK.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1540,7 +1540,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1569⭐ 238🍴 Mojave GTK Theme) - Mojave is a Mac OSX like theme for GTK 3, GTK 2 and GNOME-Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Pantheon, XFCE, Mate, etc.",
+          "description": "1568⭐ 238🍴 Mojave GTK Theme) - Mojave is a Mac OSX like theme for GTK 3, GTK 2 and GNOME-Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Pantheon, XFCE, Mate, etc.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1554,7 +1554,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1507⭐ 72🍴 Graphite) - Graphite GTK theme.",
+          "description": "1509⭐ 72🍴 Graphite) - Graphite GTK theme.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1582,7 +1582,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "995⭐ 54🍴 Gruvbox) - A GTK theme based on the Gruvbox colour palette.",
+          "description": "994⭐ 53🍴 Gruvbox) - A GTK theme based on the Gruvbox colour palette.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1590,7 +1590,7 @@
             "last_commit": "2025-10-23T21:05:11Z",
             "owner": "Fausto-Korpsvart",
             "repo": "Gruvbox-GTK-Theme",
-            "stars": 994
+            "stars": 995
           }
         },
         {
@@ -1624,7 +1624,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "860⭐ 48🍴 Ant Theme) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.",
+          "description": "861⭐ 48🍴 Ant Theme) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1646,7 +1646,7 @@
             "last_commit": "2026-01-31T12:41:50Z",
             "owner": "vinceliuice",
             "repo": "Layan-gtk-theme",
-            "stars": 613
+            "stars": 614
           }
         },
         {
@@ -1694,7 +1694,7 @@
             "last_commit": "2025-09-24T08:29:01Z",
             "owner": "polybar",
             "repo": "polybar",
-            "stars": 15332
+            "stars": 15335
           }
         },
         {
@@ -1719,16 +1719,16 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T06:17:42Z",
+            "last_commit": "2026-08-17T04:13:36Z",
             "owner": "kando-menu",
             "repo": "kando",
-            "stars": 6179
+            "stars": 6184
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2305⭐ 73🍴 Themix GUI designer) - A Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes.",
+          "description": "2306⭐ 73🍴 Themix GUI designer) - A Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1756,7 +1756,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1689⭐ 188🍴 Lemonbar) - Super fast, lightweight, and mnml status bar for Linux.",
+          "description": "1688⭐ 188🍴 Lemonbar) - Super fast, lightweight, and mnml status bar for Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1770,7 +1770,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1352⭐ 89🍴 Extension Manager) - A utility for browsing and installing GNOME Shell Extensions.",
+          "description": "1354⭐ 89🍴 Extension Manager) - A utility for browsing and installing GNOME Shell Extensions.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1803,10 +1803,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-27T17:43:54Z",
+            "last_commit": "2026-08-16T22:51:28Z",
             "owner": "gdm-settings",
             "repo": "gdm-settings",
-            "stars": 864
+            "stars": 865
           }
         }
       ],
@@ -1828,10 +1828,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T18:16:05Z",
+            "last_commit": "2026-08-16T19:26:43Z",
             "owner": "dbeaver",
             "repo": "dbeaver",
-            "stars": 51442
+            "stars": 51448
           }
         },
         {
@@ -1842,7 +1842,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T15:48:47Z",
+            "last_commit": "2026-08-17T03:14:29Z",
             "owner": "mongodb",
             "repo": "mongo",
             "stars": 28497
@@ -1859,7 +1859,7 @@
             "last_commit": "2026-08-10T00:29:56Z",
             "owner": "sqlitebrowser",
             "repo": "sqlitebrowser",
-            "stars": 24478
+            "stars": 24487
           }
         },
         {
@@ -1870,10 +1870,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T16:54:41Z",
+            "last_commit": "2026-08-17T00:38:13Z",
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 21800
+            "stars": 21810
           }
         },
         {
@@ -1901,7 +1901,7 @@
             "last_commit": "2026-07-31T15:43:43Z",
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12381
+            "stars": 12382
           }
         },
         {
@@ -1915,7 +1915,7 @@
             "last_commit": "2026-08-15T12:56:53Z",
             "owner": "dbcli",
             "repo": "mycli",
-            "stars": 11963
+            "stars": 11960
           }
         },
         {
@@ -1926,7 +1926,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T01:00:36Z",
+            "last_commit": "2026-08-17T01:00:35Z",
             "owner": "oceanbase",
             "repo": "oceanbase",
             "stars": 10242
@@ -1940,7 +1940,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T09:19:14Z",
+            "last_commit": "2026-08-16T22:18:42Z",
             "owner": "apache",
             "repo": "cassandra",
             "stars": 10071
@@ -1954,10 +1954,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-14T21:05:30Z",
+            "last_commit": "2026-08-16T17:57:39Z",
             "owner": "apache",
             "repo": "couchdb",
-            "stars": 6936
+            "stars": 6937
           }
         },
         {
@@ -2072,10 +2072,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T01:47:47Z",
+            "last_commit": "2026-08-16T20:38:53Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47646
+            "stars": 47663
           }
         },
         {
@@ -2086,10 +2086,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T10:46:35Z",
+            "last_commit": "2026-08-16T21:45:13Z",
             "owner": "4ian",
             "repo": "GDevelop",
-            "stars": 25673
+            "stars": 25707
           }
         },
         {
@@ -2114,10 +2114,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T21:57:18Z",
+            "last_commit": "2026-08-16T21:36:01Z",
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7786
+            "stars": 7787
           }
         },
         {
@@ -2128,10 +2128,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T06:53:52Z",
+            "last_commit": "2026-08-16T12:17:12Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7187
+            "stars": 7189
           }
         },
         {
@@ -2142,10 +2142,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T09:48:10Z",
+            "last_commit": "2026-08-16T12:41:36Z",
             "owner": "FlaxEngine",
             "repo": "FlaxEngine",
-            "stars": 6967
+            "stars": 6968
           }
         },
         {
@@ -2156,10 +2156,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T16:06:44Z",
+            "last_commit": "2026-08-16T22:45:46Z",
             "owner": "defold",
             "repo": "defold",
-            "stars": 6242
+            "stars": 6246
           }
         },
         {
@@ -2179,7 +2179,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "🌎 Haxeflixel - 2D game engine written in 6916⭐ 707🍴 Haxe).",
+          "description": "🌎 Haxeflixel - 2D game engine written in 6918⭐ 709🍴 Haxe).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2193,7 +2193,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "520⭐ 30🍴 Epic Asset Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.",
+          "description": "521⭐ 30🍴 Epic Asset Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2201,7 +2201,7 @@
             "last_commit": "2026-03-23T13:47:23Z",
             "owner": "AchetaGames",
             "repo": "Epic-Asset-Manager",
-            "stars": 521
+            "stars": 522
           }
         }
       ],
@@ -2213,15 +2213,15 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "81326⭐ 2984🍴 lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.",
+          "description": "81362⭐ 2986🍴 lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T13:52:59Z",
+            "last_commit": "2026-08-16T15:09:44Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81362
+            "stars": 81388
           }
         },
         {
@@ -2232,10 +2232,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T00:02:59Z",
+            "last_commit": "2026-08-16T19:39:40Z",
             "owner": "git",
             "repo": "git",
-            "stars": 62583
+            "stars": 62602
           }
         },
         {
@@ -2249,21 +2249,21 @@
             "last_commit": "2026-08-06T12:32:28Z",
             "owner": "gogs",
             "repo": "gogs",
-            "stars": 47736
+            "stars": 47729
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "24531⭐ 5981🍴 GitLab) - GitLab is a web-based Git repository manager with wiki and issue tracking features.",
+          "description": "24530⭐ 5982🍴 GitLab) - GitLab is a web-based Git repository manager with wiki and issue tracking features.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-16T00:08:16Z",
+            "last_commit": "2026-08-17T03:07:26Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24530
+            "stars": 24531
           }
         },
         {
@@ -2288,10 +2288,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T06:34:20Z",
+            "last_commit": "2026-08-17T02:29:34Z",
             "owner": "sourcegit-scm",
             "repo": "sourcegit",
-            "stars": 5748
+            "stars": 5758
           }
         },
         {
@@ -2302,7 +2302,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T05:29:44Z",
+            "last_commit": "2026-08-16T07:46:21Z",
             "owner": "git-cola",
             "repo": "git-cola",
             "stars": 2559
@@ -2319,7 +2319,7 @@
             "last_commit": "2026-07-21T07:18:29Z",
             "owner": "Murmele",
             "repo": "Gittyup",
-            "stars": 2255
+            "stars": 2256
           }
         },
         {
@@ -2333,7 +2333,7 @@
             "last_commit": "2026-08-15T22:17:53Z",
             "owner": "Gisto",
             "repo": "Gisto",
-            "stars": 1161
+            "stars": 1162
           }
         }
       ],
@@ -2367,7 +2367,7 @@
             "last_commit": "2026-07-27T03:07:56Z",
             "owner": "arduino",
             "repo": "arduino-ide",
-            "stars": 3209
+            "stars": 3211
           }
         },
         {
@@ -2398,10 +2398,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-11T11:03:43Z",
+            "last_commit": "2026-08-16T16:16:28Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189220
+            "stars": 189232
           }
         },
         {
@@ -2412,10 +2412,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T20:46:30Z",
+            "last_commit": "2026-08-16T15:57:20Z",
             "owner": "nushell",
             "repo": "nushell",
-            "stars": 40273
+            "stars": 40271
           }
         },
         {
@@ -2429,7 +2429,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39881
+            "stars": 39882
           }
         },
         {
@@ -2440,10 +2440,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T03:36:19Z",
+            "last_commit": "2026-08-17T02:22:22Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34025
+            "stars": 34020
           }
         },
         {
@@ -2457,13 +2457,13 @@
             "last_commit": "2026-08-07T10:38:46Z",
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16772
+            "stars": 16770
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "11374⭐ 804🍴 Oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.",
+          "description": "11373⭐ 804🍴 Oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2485,7 +2485,7 @@
             "last_commit": "2026-01-31T04:23:23Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9393
+            "stars": 9394
           }
         },
         {
@@ -2496,10 +2496,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-14T03:21:00Z",
+            "last_commit": "2026-08-16T22:34:48Z",
             "owner": "zimfw",
             "repo": "zimfw",
-            "stars": 4664
+            "stars": 4666
           }
         },
         {
@@ -2513,7 +2513,7 @@
             "last_commit": "2026-05-31T03:03:03Z",
             "owner": "oils-for-unix",
             "repo": "oils",
-            "stars": 3379
+            "stars": 3380
           }
         }
       ],
@@ -2525,7 +2525,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "52469⭐ 1676🍴 lazydocker) - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.",
+          "description": "52495⭐ 1676🍴 lazydocker) - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2533,7 +2533,7 @@
             "last_commit": "2026-04-19T02:51:06Z",
             "owner": "jesseduffield",
             "repo": "lazydocker",
-            "stars": 52496
+            "stars": 52505
           }
         },
         {
@@ -2547,7 +2547,7 @@
             "last_commit": "2026-08-14T16:28:56Z",
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46362
+            "stars": 46372
           }
         },
         {
@@ -2558,16 +2558,16 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T19:14:16Z",
+            "last_commit": "2026-08-17T02:33:11Z",
             "owner": "Kong",
             "repo": "insomnia",
-            "stars": 39949
+            "stars": 39953
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "32681⭐ 1140🍴 Czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.",
+          "description": "32711⭐ 1141🍴 Czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2575,7 +2575,7 @@
             "last_commit": "2026-07-29T16:35:30Z",
             "owner": "qarmin",
             "repo": "czkawka",
-            "stars": 32708
+            "stars": 32734
           }
         },
         {
@@ -2589,7 +2589,7 @@
             "last_commit": "2026-08-16T00:55:25Z",
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32587
+            "stars": 32596
           }
         },
         {
@@ -2603,7 +2603,7 @@
             "last_commit": "2021-12-13T18:24:17Z",
             "owner": "CoatiSoftware",
             "repo": "Sourcetrail",
-            "stars": 16489
+            "stars": 16490
           }
         },
         {
@@ -2617,7 +2617,7 @@
             "last_commit": "2026-08-14T01:47:44Z",
             "owner": "zealdocs",
             "repo": "zeal",
-            "stars": 12765
+            "stars": 12764
           }
         },
         {
@@ -2631,7 +2631,7 @@
             "last_commit": "2026-06-02T06:01:13Z",
             "owner": "evolus",
             "repo": "pencil",
-            "stars": 9856
+            "stars": 9857
           }
         },
         {
@@ -2659,7 +2659,7 @@
             "last_commit": "2026-08-15T15:19:07Z",
             "owner": "flox",
             "repo": "flox",
-            "stars": 4093
+            "stars": 4095
           }
         },
         {
@@ -2673,7 +2673,7 @@
             "last_commit": "2026-08-09T15:50:20Z",
             "owner": "uncrustify",
             "repo": "uncrustify",
-            "stars": 3064
+            "stars": 3062
           }
         },
         {
@@ -2684,7 +2684,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T06:19:22Z",
+            "last_commit": "2026-08-17T00:18:37Z",
             "owner": "gaphor",
             "repo": "gaphor",
             "stars": 2264
@@ -2701,7 +2701,7 @@
             "last_commit": "2026-07-22T13:20:03Z",
             "owner": "iczelia",
             "repo": "bzip3",
-            "stars": 1225
+            "stars": 1227
           }
         },
         {
@@ -2715,7 +2715,7 @@
             "last_commit": "2026-06-02T17:41:47Z",
             "owner": "workbenchdev",
             "repo": "Workbench",
-            "stars": 845
+            "stars": 846
           }
         },
         {
@@ -2830,24 +2830,24 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T01:32:44Z",
+            "last_commit": "2026-08-16T15:36:51Z",
             "owner": "kovidgoyal",
             "repo": "calibre",
-            "stars": 25651
+            "stars": 25659
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "17847⭐ 1828🍴 Calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.",
+          "description": "17866⭐ 1827🍴 Calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Fluent",
-            "last_commit": "2026-08-15T14:30:25Z",
+            "last_commit": "2026-08-16T17:13:49Z",
             "owner": "janeczku",
             "repo": "calibre-web",
-            "stars": 17866
+            "stars": 17874
           }
         },
         {
@@ -2861,7 +2861,7 @@
             "last_commit": "2026-04-08T15:11:30Z",
             "owner": "johnfactotum",
             "repo": "foliate",
-            "stars": 8634
+            "stars": 8637
           }
         },
         {
@@ -2872,10 +2872,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T18:38:02Z",
+            "last_commit": "2026-08-16T18:38:25Z",
             "owner": "Sigil-Ebook",
             "repo": "Sigil",
-            "stars": 6926
+            "stars": 6927
           }
         },
         {
@@ -2889,7 +2889,7 @@
             "last_commit": "2026-08-14T14:51:29Z",
             "owner": "pdfarranger",
             "repo": "pdfarranger",
-            "stars": 5778
+            "stars": 5779
           }
         },
         {
@@ -2903,7 +2903,7 @@
             "last_commit": "2026-08-10T01:05:01Z",
             "owner": "torakiki",
             "repo": "pdfsam",
-            "stars": 4538
+            "stars": 4539
           }
         },
         {
@@ -2917,7 +2917,7 @@
             "last_commit": "2026-08-14T19:38:08Z",
             "owner": "pwmt",
             "repo": "zathura",
-            "stars": 3250
+            "stars": 3247
           }
         },
         {
@@ -2928,10 +2928,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T01:46:41Z",
+            "last_commit": "2026-08-17T03:24:29Z",
             "owner": "KDE",
             "repo": "okular",
-            "stars": 1466
+            "stars": 1469
           }
         },
         {
@@ -2945,7 +2945,7 @@
             "last_commit": "2026-08-13T08:51:27Z",
             "owner": "babluboy",
             "repo": "bookworm",
-            "stars": 1386
+            "stars": 1385
           }
         },
         {
@@ -3001,7 +3001,7 @@
             "last_commit": "2026-02-03T22:01:56Z",
             "owner": "junrrein",
             "repo": "pdfslicer",
-            "stars": 163
+            "stars": 162
           }
         },
         {
@@ -3032,10 +3032,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T02:55:26Z",
+            "last_commit": "2026-08-17T03:41:25Z",
             "owner": "scipy",
             "repo": "scipy",
-            "stars": 14925
+            "stars": 14932
           }
         },
         {
@@ -3049,7 +3049,7 @@
             "last_commit": "2026-08-08T03:33:16Z",
             "owner": "moodle",
             "repo": "moodle",
-            "stars": 7331
+            "stars": 7335
           }
         },
         {
@@ -3060,16 +3060,16 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T01:31:57Z",
+            "last_commit": "2026-08-17T00:16:50Z",
             "owner": "sagemath",
             "repo": "sage",
-            "stars": 2510
+            "stars": 2511
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2338⭐ 354🍴 Celestia) - The free space simulation that lets you explore our universe in three dimensions.",
+          "description": "2340⭐ 354🍴 Celestia) - The free space simulation that lets you explore our universe in three dimensions.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3130,7 +3130,7 @@
           "repo_info": {
             "archived": false,
             "language": "GAP",
-            "last_commit": "2026-08-15T19:36:37Z",
+            "last_commit": "2026-08-16T14:02:32Z",
             "owner": "gap-system",
             "repo": "gap",
             "stars": 997
@@ -3158,7 +3158,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-24T19:55:23Z",
+            "last_commit": "2026-08-16T22:45:26Z",
             "owner": "sugarlabs",
             "repo": "sugar",
             "stars": 310
@@ -3248,7 +3248,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-15T22:32:37Z",
+            "last_commit": "2026-08-16T11:28:51Z",
             "owner": "Betterbird",
             "repo": "thunderbird-patches",
             "stars": 955
@@ -3305,15 +3305,15 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "21781⭐ 814🍴 nnn) - A very lightweight and fast terminal file browser with excellent desktop integration.",
+          "description": "21792⭐ 814🍴 nnn) - A very lightweight and fast terminal file browser with excellent desktop integration.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T15:22:23Z",
+            "last_commit": "2026-08-16T18:39:48Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21792
+            "stars": 21793
           }
         },
         {
@@ -3333,7 +3333,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "9464⭐ 374🍴 lf) - lf as in \"list files\" is a modern and minimal terminal file manager with VI key bindings inspired by ranger.",
+          "description": "9467⭐ 374🍴 lf) - lf as in \"list files\" is a modern and minimal terminal file manager with VI key bindings inspired by ranger.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3355,13 +3355,13 @@
             "last_commit": "2026-08-06T09:34:35Z",
             "owner": "vifm",
             "repo": "vifm",
-            "stars": 3235
+            "stars": 3239
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2526⭐ 159🍴 QDirStat) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.",
+          "description": "2528⭐ 159🍴 QDirStat) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3369,18 +3369,18 @@
             "last_commit": "2026-08-08T10:57:17Z",
             "owner": "shundhammer",
             "repo": "qdirstat",
-            "stars": 2528
+            "stars": 2531
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1711⭐ 53🍴 CliFM) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.",
+          "description": "1717⭐ 53🍴 CliFM) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T02:20:23Z",
+            "last_commit": "2026-08-16T17:53:02Z",
             "owner": "leo-arch",
             "repo": "clifm",
             "stars": 1717
@@ -3389,7 +3389,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1546⭐ 360🍴 Nemo) - Nemo is the file manager for the Cinnamon desktop environment.",
+          "description": "1547⭐ 359🍴 Nemo) - Nemo is the file manager for the Cinnamon desktop environment.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3408,7 +3408,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T09:58:55Z",
+            "last_commit": "2026-08-16T09:20:03Z",
             "owner": "MidnightCommander",
             "repo": "mc",
             "stars": 949
@@ -3436,10 +3436,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T02:20:02Z",
+            "last_commit": "2026-08-16T22:38:54Z",
             "owner": "GNOME",
             "repo": "nautilus",
-            "stars": 414
+            "stars": 415
           }
         },
         {
@@ -3453,7 +3453,7 @@
             "last_commit": "2026-07-30T21:08:20Z",
             "owner": "mate-desktop",
             "repo": "caja",
-            "stars": 317
+            "stars": 318
           }
         }
       ],
@@ -3478,7 +3478,7 @@
             "last_commit": "2026-08-15T04:59:50Z",
             "owner": "OpenTTD",
             "repo": "OpenTTD",
-            "stars": 8173
+            "stars": 8175
           }
         },
         {
@@ -3588,7 +3588,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "226⭐ 59🍴 nSnake) - Play the classic Nokia snake game on the command line.",
+          "description": "228⭐ 59🍴 nSnake) - Play the classic Nokia snake game on the command line.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3630,7 +3630,7 @@
             "last_commit": "2026-08-01T16:36:18Z",
             "owner": "OpenRA",
             "repo": "OpenRA",
-            "stars": 17228
+            "stars": 17237
           }
         },
         {
@@ -3641,10 +3641,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T22:03:07Z",
+            "last_commit": "2026-08-17T04:17:16Z",
             "owner": "OpenRCT2",
             "repo": "OpenRCT2",
-            "stars": 16073
+            "stars": 16078
           }
         },
         {
@@ -3655,10 +3655,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T22:04:15Z",
+            "last_commit": "2026-08-16T19:17:38Z",
             "owner": "OpenMW",
             "repo": "openmw",
-            "stars": 6511
+            "stars": 6517
           }
         },
         {
@@ -3692,7 +3692,7 @@
             "last_commit": "2026-08-10T17:23:39Z",
             "owner": "ZDoom",
             "repo": "gzdoom",
-            "stars": 3102
+            "stars": 3101
           }
         },
         {
@@ -3706,7 +3706,7 @@
             "last_commit": "2026-06-22T15:51:42Z",
             "owner": "freedoom",
             "repo": "freedoom",
-            "stars": 1334
+            "stars": 1336
           }
         },
         {
@@ -3740,7 +3740,7 @@
             "last_commit": "2026-08-15T10:16:50Z",
             "owner": "SuperTux",
             "repo": "supertux",
-            "stars": 3127
+            "stars": 3126
           }
         },
         {
@@ -3751,7 +3751,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T03:28:32Z",
+            "last_commit": "2026-08-17T04:18:06Z",
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 902
@@ -3779,7 +3779,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T21:51:05Z",
+            "last_commit": "2026-08-16T18:24:03Z",
             "owner": "Neverball",
             "repo": "neverball",
             "stars": 432
@@ -3813,7 +3813,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T21:11:55Z",
+            "last_commit": "2026-08-17T01:58:41Z",
             "owner": "Cockatrice",
             "repo": "Cockatrice",
             "stars": 1818
@@ -3864,7 +3864,7 @@
             "last_commit": "2026-08-01T19:22:43Z",
             "owner": "supertuxkart",
             "repo": "stk-code",
-            "stars": 5300
+            "stars": 5302
           }
         },
         {
@@ -3878,7 +3878,7 @@
             "last_commit": "2026-08-10T07:28:37Z",
             "owner": "KartKrewDev",
             "repo": "RingRacers",
-            "stars": 333
+            "stars": 334
           }
         }
       ],
@@ -3938,7 +3938,7 @@
             "last_commit": "2026-08-14T16:24:03Z",
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28621
+            "stars": 28635
           }
         },
         {
@@ -3952,7 +3952,7 @@
             "last_commit": "2026-08-16T02:30:51Z",
             "owner": "Warzone2100",
             "repo": "warzone2100",
-            "stars": 3911
+            "stars": 3909
           }
         },
         {
@@ -3963,10 +3963,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T07:13:38Z",
+            "last_commit": "2026-08-17T03:15:48Z",
             "owner": "triplea-game",
             "repo": "triplea",
-            "stars": 1561
+            "stars": 1563
           }
         }
       ],
@@ -3983,10 +3983,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T17:59:51Z",
+            "last_commit": "2026-08-16T08:33:11Z",
             "owner": "luanti-org",
             "repo": "luanti",
-            "stars": 13451
+            "stars": 13452
           }
         },
         {
@@ -3997,10 +3997,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T00:18:27Z",
+            "last_commit": "2026-08-17T00:34:32Z",
             "owner": "PrismLauncher",
             "repo": "PrismLauncher",
-            "stars": 10134
+            "stars": 10147
           }
         },
         {
@@ -4025,10 +4025,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T00:24:54Z",
+            "last_commit": "2026-08-16T23:06:04Z",
             "owner": "modrinth",
             "repo": "code",
-            "stars": 2303
+            "stars": 2304
           }
         },
         {
@@ -4042,7 +4042,7 @@
             "last_commit": "2026-06-25T20:42:42Z",
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
-            "stars": 1617
+            "stars": 1618
           }
         }
       ],
@@ -4059,7 +4059,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-08T04:27:55Z",
+            "last_commit": "2026-08-17T02:31:00Z",
             "owner": "cxong",
             "repo": "cdogs-sdl",
             "stars": 1072
@@ -4093,10 +4093,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T09:21:09Z",
+            "last_commit": "2026-08-16T18:43:58Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6823
+            "stars": 6824
           }
         },
         {
@@ -4107,7 +4107,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T19:34:29Z",
+            "last_commit": "2026-08-17T02:29:16Z",
             "owner": "freeciv",
             "repo": "freeciv",
             "stars": 1577
@@ -4149,7 +4149,7 @@
             "last_commit": "2026-08-15T21:36:06Z",
             "owner": "lutris",
             "repo": "lutris",
-            "stars": 10154
+            "stars": 10151
           }
         },
         {
@@ -4160,10 +4160,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T01:57:04Z",
+            "last_commit": "2026-08-16T16:30:20Z",
             "owner": "itchio",
             "repo": "itch",
-            "stars": 2797
+            "stars": 2799
           }
         },
         {
@@ -4203,7 +4203,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "8932⭐ 420🍴 MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.",
+          "description": "8939⭐ 420🍴 MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4225,13 +4225,13 @@
             "last_commit": "2026-08-02T21:26:12Z",
             "owner": "SteamDeckHomebrew",
             "repo": "decky-loader",
-            "stars": 7125
+            "stars": 7133
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "5966⭐ 217🍴 GameMode) - Optimise Linux system performance on demand.",
+          "description": "5965⭐ 217🍴 GameMode) - Optimise Linux system performance on demand.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4239,7 +4239,7 @@
             "last_commit": "2026-06-15T12:02:25Z",
             "owner": "FeralInteractive",
             "repo": "gamemode",
-            "stars": 5965
+            "stars": 5967
           }
         },
         {
@@ -4253,13 +4253,13 @@
             "last_commit": "2024-02-04T12:12:58Z",
             "owner": "CryoByte33",
             "repo": "steam-deck-utilities",
-            "stars": 3531
+            "stars": 3532
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2830⭐ 87🍴 SteamTinkerLaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs.",
+          "description": "2832⭐ 87🍴 SteamTinkerLaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4267,7 +4267,7 @@
             "last_commit": "2025-12-27T04:58:14Z",
             "owner": "sonic2kk",
             "repo": "steamtinkerlaunch",
-            "stars": 2832
+            "stars": 2833
           }
         },
         {
@@ -4278,7 +4278,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T21:31:02Z",
+            "last_commit": "2026-08-17T01:42:51Z",
             "owner": "scummvm",
             "repo": "scummvm",
             "stars": 2775
@@ -4292,16 +4292,16 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T01:08:47Z",
+            "last_commit": "2026-08-17T01:06:18Z",
             "owner": "SteamGridDB",
             "repo": "steam-rom-manager",
-            "stars": 2529
+            "stars": 2531
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1858⭐ 60🍴 BoilR) - Synchronize games from other platforms into your Steam library.",
+          "description": "1861⭐ 60🍴 BoilR) - Synchronize games from other platforms into your Steam library.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4309,7 +4309,7 @@
             "last_commit": "2026-04-23T00:52:10Z",
             "owner": "PhilipK",
             "repo": "BoilR",
-            "stars": 1861
+            "stars": 1862
           }
         },
         {
@@ -4320,16 +4320,16 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T00:50:49Z",
+            "last_commit": "2026-08-17T01:26:23Z",
             "owner": "dosbox-staging",
             "repo": "dosbox-staging",
-            "stars": 1759
+            "stars": 1761
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1641⭐ 151🍴 SC Controller) - User-mode driver, mapper and GTK3 based GUI for Steam Controller, DualShock 4, and similar controllers.",
+          "description": "1641⭐ 152🍴 SC Controller) - User-mode driver, mapper and GTK3 based GUI for Steam Controller, DualShock 4, and similar controllers.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4343,15 +4343,15 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1427⭐ 65🍴 GOverlay) - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.",
+          "description": "1431⭐ 65🍴 GOverlay) - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-16T03:21:48Z",
+            "last_commit": "2026-08-17T03:38:20Z",
             "owner": "benjamimgois",
             "repo": "goverlay",
-            "stars": 1430
+            "stars": 1432
           }
         },
         {
@@ -4385,7 +4385,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "459⭐ 7🍴 Boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox. It is a sister project of Luxtorpeda and DOSBox Staging.",
+          "description": "460⭐ 7🍴 Boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox. It is a sister project of Luxtorpeda and DOSBox Staging.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4399,7 +4399,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "179⭐ 2🍴 Roberta) - Steam Play compatibility tool to run adventure games using native Linux ScummVM. It is a sister project of Luxtorpeda.",
+          "description": "180⭐ 2🍴 Roberta) - Steam Play compatibility tool to run adventure games using native Linux ScummVM. It is a sister project of Luxtorpeda.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4439,35 +4439,35 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "32535⭐ 1572🍴 Proton) - Compatibility tool for Steam Play based on Wine and additional components, primarily developed by Valve and CodeWeavers.",
+          "description": "32555⭐ 1576🍴 Proton) - Compatibility tool for Steam Play based on Wine and additional components, primarily developed by Valve and CodeWeavers.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T21:59:31Z",
+            "last_commit": "2026-08-16T14:54:34Z",
             "owner": "ValveSoftware",
             "repo": "Proton",
-            "stars": 32555
+            "stars": 32563
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "14836⭐ 418🍴 GE-Proton) - Compatibility tool for Steam Play based on Wine and additional components.",
+          "description": "14845⭐ 418🍴 GE-Proton) - Compatibility tool for Steam Play based on Wine and additional components.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T03:05:12Z",
+            "last_commit": "2026-08-17T00:35:59Z",
             "owner": "GloriousEggroll",
             "repo": "proton-ge-custom",
-            "stars": 14845
+            "stars": 14850
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "3514⭐ 464🍴 Winetricks) - Winetricks is an easy way to work around problems in Wine.",
+          "description": "3515⭐ 464🍴 Winetricks) - Winetricks is an easy way to work around problems in Wine.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4495,7 +4495,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "2175⭐ 75🍴 Wine-GE-Custom) - Custom build of wine, made to use with lutris. Built with lutris's buildbot.",
+          "description": "2173⭐ 75🍴 Wine-GE-Custom) - Custom build of wine, made to use with lutris. Built with lutris's buildbot.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4514,16 +4514,16 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T06:03:12Z",
+            "last_commit": "2026-08-16T17:48:10Z",
             "owner": "DavidoTek",
             "repo": "ProtonUp-Qt",
-            "stars": 2017
+            "stars": 2016
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1702⭐ 53🍴 ProtonPlus) - A simple Wine and Proton manager for GNOME.",
+          "description": "1711⭐ 54🍴 ProtonPlus) - A simple Wine and Proton manager for GNOME.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4531,13 +4531,13 @@
             "last_commit": "2026-08-15T19:02:45Z",
             "owner": "Vysp3r",
             "repo": "ProtonPlus",
-            "stars": 1711
+            "stars": 1717
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1270⭐ 107🍴 Kron4ek Wine Builds) - Custom Wine builds and build scripts for Vanilla, Wine Staging, Wine-tkg and Proton.",
+          "description": "1271⭐ 108🍴 Kron4ek Wine Builds) - Custom Wine builds and build scripts for Vanilla, Wine Staging, Wine-tkg and Proton.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4545,7 +4545,7 @@
             "last_commit": "2026-08-12T11:22:58Z",
             "owner": "Kron4ek",
             "repo": "Wine-Builds",
-            "stars": 1271
+            "stars": 1272
           }
         },
         {
@@ -4587,7 +4587,7 @@
             "last_commit": "2023-10-19T02:08:30Z",
             "owner": "AUNaseef",
             "repo": "protonup",
-            "stars": 601
+            "stars": 602
           }
         }
       ],
@@ -4609,10 +4609,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T03:29:32Z",
+            "last_commit": "2026-08-17T03:35:54Z",
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13516
+            "stars": 13524
           }
         },
         {
@@ -4623,10 +4623,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T23:49:32Z",
+            "last_commit": "2026-08-17T02:42:39Z",
             "owner": "mamedev",
             "repo": "mame",
-            "stars": 10406
+            "stars": 10408
           }
         },
         {
@@ -4640,7 +4640,7 @@
             "last_commit": "2026-07-30T19:45:22Z",
             "owner": "ares-emulator",
             "repo": "ares",
-            "stars": 1758
+            "stars": 1759
           }
         },
         {
@@ -4719,10 +4719,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T20:28:39Z",
+            "last_commit": "2026-08-16T09:52:36Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15402
+            "stars": 15408
           }
         },
         {
@@ -4733,10 +4733,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-06T20:50:38Z",
+            "last_commit": "2026-08-16T09:11:03Z",
             "owner": "cemu-project",
             "repo": "Cemu",
-            "stars": 9690
+            "stars": 9693
           }
         },
         {
@@ -4750,7 +4750,7 @@
             "last_commit": "2026-07-30T23:55:02Z",
             "owner": "melonDS-emu",
             "repo": "melonDS",
-            "stars": 4933
+            "stars": 4936
           }
         },
         {
@@ -4761,10 +4761,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T12:09:46Z",
+            "last_commit": "2026-08-16T19:59:26Z",
             "owner": "visualboyadvance-m",
             "repo": "visualboyadvance-m",
-            "stars": 3897
+            "stars": 3898
           }
         },
         {
@@ -4792,7 +4792,7 @@
             "last_commit": "2026-08-15T12:16:09Z",
             "owner": "snes9xgit",
             "repo": "snes9x",
-            "stars": 3293
+            "stars": 3294
           }
         },
         {
@@ -4818,7 +4818,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "32478⭐ 2425🍴 ShadPS4) - A PS4 emulator in active development. Available on Windows, macOS and Linux.",
+          "description": "32490⭐ 2427🍴 ShadPS4) - A PS4 emulator in active development. Available on Windows, macOS and Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4826,7 +4826,7 @@
             "last_commit": "2026-08-15T23:13:16Z",
             "owner": "shadps4-emu",
             "repo": "shadPS4",
-            "stars": 32490
+            "stars": 32518
           }
         },
         {
@@ -4837,10 +4837,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T19:57:53Z",
+            "last_commit": "2026-08-16T21:26:09Z",
             "owner": "hrydgard",
             "repo": "ppsspp",
-            "stars": 14258
+            "stars": 14264
           }
         },
         {
@@ -4851,10 +4851,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T04:01:25Z",
+            "last_commit": "2026-08-16T14:48:04Z",
             "owner": "stenzek",
             "repo": "duckstation",
-            "stars": 10541
+            "stars": 10545
           }
         },
         {
@@ -4868,7 +4868,7 @@
             "last_commit": "2026-08-09T20:43:13Z",
             "owner": "Vita3K",
             "repo": "Vita3K",
-            "stars": 5607
+            "stars": 5609
           }
         },
         {
@@ -4904,10 +4904,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-15T16:05:52Z",
+            "last_commit": "2026-08-16T22:36:22Z",
             "owner": "Orama-Interactive",
             "repo": "Pixelorama",
-            "stars": 10117
+            "stars": 10130
           }
         },
         {
@@ -4921,7 +4921,7 @@
             "last_commit": "2026-06-15T06:18:25Z",
             "owner": "LibreSprite",
             "repo": "LibreSprite",
-            "stars": 8244
+            "stars": 8250
           }
         },
         {
@@ -4935,13 +4935,13 @@
             "last_commit": "2022-03-03T20:52:00Z",
             "owner": "inkscape",
             "repo": "inkscape",
-            "stars": 3789
+            "stars": 3791
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2961⭐ 449🍴 Mypaint)) - Mypaint is a paint program for use with graphics tablets.",
+          "description": "2962⭐ 449🍴 Mypaint)) - Mypaint is a paint program for use with graphics tablets.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4949,7 +4949,7 @@
             "last_commit": "2026-06-16T09:10:40Z",
             "owner": "mypaint",
             "repo": "mypaint",
-            "stars": 2962
+            "stars": 2963
           }
         },
         {
@@ -4960,10 +4960,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T10:50:46Z",
+            "last_commit": "2026-08-16T05:36:43Z",
             "owner": "synfig",
             "repo": "synfig",
-            "stars": 2280
+            "stars": 2281
           }
         },
         {
@@ -5025,7 +5025,7 @@
             "last_commit": "2026-08-15T19:10:17Z",
             "owner": "ImageMagick",
             "repo": "ImageMagick",
-            "stars": 17166
+            "stars": 17168
           }
         },
         {
@@ -5036,10 +5036,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T00:39:03Z",
+            "last_commit": "2026-08-17T00:39:39Z",
             "owner": "darktable-org",
             "repo": "darktable",
-            "stars": 12946
+            "stars": 12950
           }
         },
         {
@@ -5064,7 +5064,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T21:48:30Z",
+            "last_commit": "2026-08-16T07:44:45Z",
             "owner": "RawTherapee",
             "repo": "RawTherapee",
             "stars": 4116
@@ -5078,7 +5078,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-03T15:36:02Z",
+            "last_commit": "2026-08-16T06:53:28Z",
             "owner": "jarun",
             "repo": "imgp",
             "stars": 1090
@@ -5143,7 +5143,7 @@
             "last_commit": "2023-08-07T20:11:29Z",
             "owner": "meowtec",
             "repo": "Imagine",
-            "stars": 4403
+            "stars": 4405
           }
         },
         {
@@ -5157,7 +5157,7 @@
             "last_commit": "2026-07-31T19:54:04Z",
             "owner": "nomacs",
             "repo": "nomacs",
-            "stars": 3116
+            "stars": 3113
           }
         },
         {
@@ -5171,13 +5171,13 @@
             "last_commit": "2026-08-10T13:03:47Z",
             "owner": "szTheory",
             "repo": "exifcleaner",
-            "stars": 2590
+            "stars": 2594
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1006⭐ 112🍴 Phockup) - Command line sorting tool to organize photos and videos from your camera in folders by year, month and day.",
+          "description": "1007⭐ 112🍴 Phockup) - Command line sorting tool to organize photos and videos from your camera in folders by year, month and day.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5185,18 +5185,18 @@
             "last_commit": "2024-05-06T22:57:08Z",
             "owner": "ivandokov",
             "repo": "phockup",
-            "stars": 1007
+            "stars": 1008
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "987⭐ 81🍴 rclip) - AI-Powered Command-Line Photo Search Tool.",
+          "description": "991⭐ 81🍴 rclip) - AI-Powered Command-Line Photo Search Tool.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T11:46:57Z",
+            "last_commit": "2026-08-17T03:15:04Z",
             "owner": "yurijmikhalevich",
             "repo": "rclip",
             "stars": 991
@@ -5224,7 +5224,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T12:50:41Z",
+            "last_commit": "2026-08-16T14:24:47Z",
             "owner": "BestImageViewer",
             "repo": "geeqie",
             "stars": 608
@@ -5267,15 +5267,15 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "32841⭐ 5883🍴 FreeCAD) - FreeCAD is a free and opensource multiplatform 3D parametric modeler.",
+          "description": "32875⭐ 5890🍴 FreeCAD) - FreeCAD is a free and opensource multiplatform 3D parametric modeler.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T02:07:51Z",
+            "last_commit": "2026-08-17T03:20:53Z",
             "owner": "FreeCAD",
             "repo": "FreeCAD",
-            "stars": 32874
+            "stars": 32893
           }
         },
         {
@@ -5286,16 +5286,16 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T16:21:32Z",
+            "last_commit": "2026-08-16T07:46:01Z",
             "owner": "HandBrake",
             "repo": "HandBrake",
-            "stars": 24022
+            "stars": 24026
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "17428⭐ 706🍴 PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users.",
+          "description": "17445⭐ 707🍴 PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5303,13 +5303,13 @@
             "last_commit": "2026-08-15T17:17:40Z",
             "owner": "Diolinux",
             "repo": "PhotoGIMP",
-            "stars": 17444
+            "stars": 17463
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "4499⭐ 322🍴 Photoshop CCv19) - Photoshop CC v19 installer for Gnu/Linux.",
+          "description": "4500⭐ 322🍴 Photoshop CCv19) - Photoshop CC v19 installer for Gnu/Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5351,7 +5351,7 @@
             "last_commit": "2026-08-15T00:34:08Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75053
+            "stars": 75102
           }
         },
         {
@@ -5365,13 +5365,13 @@
             "last_commit": "2026-08-14T09:03:57Z",
             "owner": "asciinema",
             "repo": "asciinema",
-            "stars": 17682
+            "stars": 17690
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "10559⭐ 334🍴 Peek) - Simple animated GIF screen recorder with an easy to use interface.",
+          "description": "10558⭐ 334🍴 Peek) - Simple animated GIF screen recorder with an easy to use interface.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5393,7 +5393,7 @@
             "last_commit": "2026-07-29T21:01:53Z",
             "owner": "SeaDve",
             "repo": "Kooha",
-            "stars": 3479
+            "stars": 3480
           }
         },
         {
@@ -5480,16 +5480,16 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T20:43:19Z",
+            "last_commit": "2026-08-16T18:18:13Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30626
+            "stars": 30634
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "3290⭐ 243🍴 Ksnip) - Ksnip is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.",
+          "description": "3292⭐ 243🍴 Ksnip) - Ksnip is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5497,7 +5497,7 @@
             "last_commit": "2026-07-03T12:19:48Z",
             "owner": "ksnip",
             "repo": "ksnip",
-            "stars": 3292
+            "stars": 3291
           }
         },
         {
@@ -5542,10 +5542,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T01:12:20Z",
+            "last_commit": "2026-08-17T01:19:41Z",
             "owner": "mltframework",
             "repo": "shotcut",
-            "stars": 14924
+            "stars": 14928
           }
         },
         {
@@ -5573,7 +5573,7 @@
             "last_commit": "2026-08-15T20:30:08Z",
             "owner": "OpenShot",
             "repo": "openshot-qt",
-            "stars": 6170
+            "stars": 6171
           }
         },
         {
@@ -5587,7 +5587,7 @@
             "last_commit": "2026-06-23T08:08:05Z",
             "owner": "jliljebl",
             "repo": "flowblade",
-            "stars": 3082
+            "stars": 3083
           }
         },
         {
@@ -5601,7 +5601,7 @@
             "last_commit": "2025-04-24T10:12:36Z",
             "owner": "ozmartian",
             "repo": "vidcutter",
-            "stars": 1974
+            "stars": 1975
           }
         },
         {
@@ -5637,16 +5637,16 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T00:05:46Z",
+            "last_commit": "2026-08-16T22:02:59Z",
             "owner": "zen-browser",
             "repo": "desktop",
-            "stars": 43939
+            "stars": 43942
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "27407⭐ 1238🍴 ungoogled-chromium) - ungoogled-chromium is Google Chromium, sans dependency on Google web services.",
+          "description": "27424⭐ 1239🍴 ungoogled-chromium) - ungoogled-chromium is Google Chromium, sans dependency on Google web services.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5654,7 +5654,7 @@
             "last_commit": "2026-08-12T15:38:26Z",
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27424
+            "stars": 27430
           }
         },
         {
@@ -5665,10 +5665,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T16:04:07Z",
+            "last_commit": "2026-08-17T04:03:48Z",
             "owner": "brave",
             "repo": "brave-browser",
-            "stars": 23349
+            "stars": 23357
           }
         },
         {
@@ -5696,7 +5696,7 @@
             "last_commit": "2026-08-09T20:08:18Z",
             "owner": "minbrowser",
             "repo": "min",
-            "stars": 9137
+            "stars": 9139
           }
         },
         {
@@ -5710,7 +5710,7 @@
             "last_commit": "2026-08-05T13:35:51Z",
             "owner": "BrowserWorks",
             "repo": "waterfox",
-            "stars": 6127
+            "stars": 6137
           }
         }
       ],
@@ -5722,7 +5722,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "25774⭐ 2209🍴 spotDL) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+          "description": "25798⭐ 2212🍴 spotDL) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5730,7 +5730,7 @@
             "last_commit": "2026-08-12T04:08:03Z",
             "owner": "spotDL",
             "repo": "spotify-downloader",
-            "stars": 25798
+            "stars": 25807
           }
         },
         {
@@ -5744,7 +5744,7 @@
             "last_commit": "2026-08-03T17:28:38Z",
             "owner": "zerotier",
             "repo": "ZeroTierOne",
-            "stars": 17011
+            "stars": 17014
           }
         },
         {
@@ -5755,16 +5755,16 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T06:03:19Z",
+            "last_commit": "2026-08-16T21:20:50Z",
             "owner": "aandrew-me",
             "repo": "ytDownloader",
-            "stars": 10153
+            "stars": 10160
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "6850⭐ 321🍴 Parabolic) - Download web video and audio.",
+          "description": "6874⭐ 324🍴 Parabolic) - Download web video and audio.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5772,13 +5772,13 @@
             "last_commit": "2026-06-29T03:59:31Z",
             "owner": "NickvisionApps",
             "repo": "Parabolic",
-            "stars": 6873
+            "stars": 6880
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1183⭐ 136🍴 Video Downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).",
+          "description": "1184⭐ 136🍴 Video Downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5786,7 +5786,7 @@
             "last_commit": "2026-07-11T17:13:13Z",
             "owner": "Unrud",
             "repo": "video-downloader",
-            "stars": 1184
+            "stars": 1186
           }
         }
       ],
@@ -5803,10 +5803,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-15T10:22:26Z",
+            "last_commit": "2026-08-16T17:51:35Z",
             "owner": "FreeTubeApp",
             "repo": "FreeTube",
-            "stars": 21661
+            "stars": 21666
           }
         },
         {
@@ -5817,10 +5817,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:25:38Z",
+            "last_commit": "2026-08-17T03:27:30Z",
             "owner": "popcorntime",
             "repo": "popcorntime",
-            "stars": 10632
+            "stars": 10633
           }
         },
         {
@@ -5834,13 +5834,13 @@
             "last_commit": "2026-05-21T04:53:16Z",
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9596
+            "stars": 9600
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "4139⭐ 451🍴 ytfzf) - Terminal Youtube/Odysee client with thumbnails.",
+          "description": "4140⭐ 451🍴 ytfzf) - Terminal Youtube/Odysee client with thumbnails.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5868,7 +5868,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "2713⭐ 163🍴 RSS Guard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.",
+          "description": "2715⭐ 163🍴 RSS Guard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5876,7 +5876,7 @@
             "last_commit": "2026-08-14T07:31:04Z",
             "owner": "martinrotter",
             "repo": "rssguard",
-            "stars": 2715
+            "stars": 2716
           }
         },
         {
@@ -5926,10 +5926,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T21:03:11Z",
+            "last_commit": "2026-08-16T17:54:01Z",
             "owner": "texstudio-org",
             "repo": "texstudio",
-            "stars": 3595
+            "stars": 3597
           }
         },
         {
@@ -5969,7 +5969,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "60029⭐ 4449🍴 MarkText) - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.",
+          "description": "60107⭐ 4453🍴 MarkText) - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5977,7 +5977,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60105
+            "stars": 60147
           }
         },
         {
@@ -5991,7 +5991,7 @@
             "last_commit": "2026-08-12T04:06:44Z",
             "owner": "KDE",
             "repo": "ghostwriter",
-            "stars": 4959
+            "stars": 4961
           }
         },
         {
@@ -6002,7 +6002,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-19T20:08:58Z",
+            "last_commit": "2026-08-16T17:57:50Z",
             "owner": "retext-project",
             "repo": "retext",
             "stars": 2052
@@ -6019,7 +6019,7 @@
             "last_commit": "2024-09-22T11:59:10Z",
             "owner": "jamiemcg",
             "repo": "Remarkable",
-            "stars": 2035
+            "stars": 2036
           }
         },
         {
@@ -6134,13 +6134,13 @@
             "last_commit": "2026-08-16T00:10:48Z",
             "owner": "espanso",
             "repo": "espanso",
-            "stars": 14292
+            "stars": 14297
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "3875⭐ 261🍴 Autokey) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.",
+          "description": "3875⭐ 262🍴 Autokey) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6159,10 +6159,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T12:01:27Z",
+            "last_commit": "2026-08-17T01:47:10Z",
             "owner": "rafaelmardojai",
             "repo": "blanket",
-            "stars": 2097
+            "stars": 2096
           }
         },
         {
@@ -6190,7 +6190,7 @@
             "last_commit": "2026-06-16T21:19:30Z",
             "owner": "robiot",
             "repo": "xclicker",
-            "stars": 630
+            "stars": 631
           }
         },
         {
@@ -6224,7 +6224,7 @@
             "last_commit": "2026-08-11T18:24:52Z",
             "owner": "cerebroapp",
             "repo": "cerebro",
-            "stars": 8556
+            "stars": 8557
           }
         },
         {
@@ -6258,21 +6258,21 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "4302⭐ 272🍴 fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.",
+          "description": "4311⭐ 273🍴 fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T05:51:55Z",
+            "last_commit": "2026-08-16T05:44:16Z",
             "owner": "cboxdoerfer",
             "repo": "fsearch",
-            "stars": 4310
+            "stars": 4314
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1158⭐ 101🍴 ANGRYsearch) - Linux file search, instant results as you type.",
+          "description": "1157⭐ 101🍴 ANGRYsearch) - Linux file search, instant results as you type.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6314,7 +6314,7 @@
             "last_commit": "2026-08-15T08:30:21Z",
             "owner": "hluk",
             "repo": "CopyQ",
-            "stars": 12125
+            "stars": 12133
           }
         },
         {
@@ -6381,7 +6381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-03T15:38:07Z",
+            "last_commit": "2026-08-16T05:00:44Z",
             "owner": "jarun",
             "repo": "pdd",
             "stars": 406
@@ -6415,10 +6415,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T00:04:22Z",
+            "last_commit": "2026-08-17T04:01:36Z",
             "owner": "toeverything",
             "repo": "AFFiNE",
-            "stars": 71567
+            "stars": 71599
           }
         },
         {
@@ -6429,10 +6429,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T01:25:34Z",
+            "last_commit": "2026-08-16T06:48:09Z",
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 55961
+            "stars": 55972
           }
         },
         {
@@ -6443,10 +6443,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-13T08:33:16Z",
+            "last_commit": "2026-08-17T04:26:09Z",
             "owner": "logseq",
             "repo": "logseq",
-            "stars": 44470
+            "stars": 44482
           }
         },
         {
@@ -6457,10 +6457,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T03:49:52Z",
+            "last_commit": "2026-08-16T16:46:43Z",
             "owner": "streetwriters",
             "repo": "notesnook",
-            "stars": 14419
+            "stars": 14427
           }
         },
         {
@@ -6474,7 +6474,7 @@
             "last_commit": "2026-08-15T12:32:59Z",
             "owner": "anyproto",
             "repo": "anytype-ts",
-            "stars": 8641
+            "stars": 8650
           }
         },
         {
@@ -6485,7 +6485,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T10:54:11Z",
+            "last_commit": "2026-08-16T15:23:18Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
             "stars": 5841
@@ -6494,7 +6494,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "5578⭐ 323🍴 Planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux.",
+          "description": "5582⭐ 323🍴 Planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6502,7 +6502,7 @@
             "last_commit": "2026-08-15T00:46:29Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5582
+            "stars": 5583
           }
         },
         {
@@ -6541,7 +6541,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T20:39:49Z",
+            "last_commit": "2026-08-16T18:46:01Z",
             "owner": "giuspen",
             "repo": "cherrytree",
             "stars": 3928
@@ -6564,7 +6564,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "2931⭐ 153🍴 TriliumNext Notes) - TriliumNext Notes is a hierarchical note taking application with focus on building large personal knowledge bases.",
+          "description": "2929⭐ 153🍴 TriliumNext Notes) - TriliumNext Notes is a hierarchical note taking application with focus on building large personal knowledge bases.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6625,10 +6625,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T16:31:08Z",
+            "last_commit": "2026-08-16T13:33:48Z",
             "owner": "Beaver-Notes",
             "repo": "Beaver-Notes",
-            "stars": 1329
+            "stars": 1330
           }
         },
         {
@@ -6690,13 +6690,13 @@
             "last_commit": "2026-08-15T15:25:51Z",
             "owner": "super-productivity",
             "repo": "super-productivity",
-            "stars": 21376
+            "stars": 21392
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "9339⭐ 395🍴 Taskbook) - Tasks, boards & notes for the command-line habitat.",
+          "description": "9338⭐ 395🍴 Taskbook) - Tasks, boards & notes for the command-line habitat.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6704,7 +6704,7 @@
             "last_commit": "2025-11-03T15:32:09Z",
             "owner": "klaudiosinani",
             "repo": "taskbook",
-            "stars": 9338
+            "stars": 9339
           }
         },
         {
@@ -6715,10 +6715,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T19:03:44Z",
+            "last_commit": "2026-08-16T19:32:11Z",
             "owner": "GothenburgBitFactory",
             "repo": "taskwarrior",
-            "stars": 6006
+            "stars": 6007
           }
         },
         {
@@ -6738,7 +6738,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "2025⭐ 137🍴 sleek) - Cross platform todo manager based on the todo.txt syntax.",
+          "description": "2026⭐ 137🍴 sleek) - Cross platform todo manager based on the todo.txt syntax.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6760,7 +6760,7 @@
             "last_commit": "2026-08-10T23:26:01Z",
             "owner": "tom-james-watson",
             "repo": "breaktimer-app",
-            "stars": 1564
+            "stars": 1563
           }
         },
         {
@@ -6836,7 +6836,7 @@
             "last_commit": "2026-08-06T13:30:48Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18606
+            "stars": 18615
           }
         },
         {
@@ -6870,7 +6870,7 @@
             "last_commit": "2026-08-13T13:50:59Z",
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44707
+            "stars": 44712
           }
         },
         {
@@ -6884,7 +6884,7 @@
             "last_commit": "2024-06-08T02:20:54Z",
             "owner": "haad",
             "repo": "proxychains",
-            "stars": 7930
+            "stars": 7931
           }
         },
         {
@@ -6898,7 +6898,7 @@
             "last_commit": "2019-11-02T19:58:36Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-qt5",
-            "stars": 7929
+            "stars": 7927
           }
         }
       ],
@@ -6915,7 +6915,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "15645⭐ 702🍴 Quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
+          "description": "15655⭐ 702🍴 Quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6923,7 +6923,7 @@
             "last_commit": "2026-08-14T14:03:22Z",
             "owner": "quickemu-project",
             "repo": "quickemu",
-            "stars": 15655
+            "stars": 15657
           }
         },
         {
@@ -6937,7 +6937,7 @@
             "last_commit": "2026-08-09T19:27:03Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12863
+            "stars": 12865
           }
         },
         {
@@ -6948,10 +6948,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T17:30:10Z",
+            "last_commit": "2026-08-16T23:01:31Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7597
+            "stars": 7598
           }
         },
         {
@@ -6965,7 +6965,7 @@
             "last_commit": "2026-08-05T17:43:34Z",
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3458
+            "stars": 3462
           }
         },
         {
@@ -6979,7 +6979,7 @@
             "last_commit": "2026-08-15T09:29:59Z",
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3227
+            "stars": 3226
           }
         },
         {
@@ -6993,13 +6993,13 @@
             "last_commit": "2026-08-02T21:01:30Z",
             "owner": "nanovms",
             "repo": "ops",
-            "stars": 1509
+            "stars": 1510
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1076⭐ 35🍴 Pods) - Interact with Podman using an intuitive desktop application.",
+          "description": "1077⭐ 35🍴 Pods) - Interact with Podman using an intuitive desktop application.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7007,7 +7007,7 @@
             "last_commit": "2026-07-23T09:08:06Z",
             "owner": "marhkb",
             "repo": "pods",
-            "stars": 1077
+            "stars": 1078
           }
         },
         {
@@ -7033,7 +7033,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "13968⭐ 656🍴 OpenSnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.",
+          "description": "13974⭐ 656🍴 OpenSnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7041,7 +7041,7 @@
             "last_commit": "2026-07-26T23:34:20Z",
             "owner": "evilsocket",
             "repo": "opensnitch",
-            "stars": 13974
+            "stars": 13973
           }
         },
         {
@@ -7055,7 +7055,7 @@
             "last_commit": "2026-08-14T13:47:38Z",
             "owner": "safing",
             "repo": "portmaster",
-            "stars": 13554
+            "stars": 13557
           }
         },
         {
@@ -7069,7 +7069,7 @@
             "last_commit": "2026-08-14T17:24:48Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10810
+            "stars": 10814
           }
         },
         {
@@ -7123,7 +7123,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "65385⭐ 3112🍴 VaultWarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.",
+          "description": "65462⭐ 3115🍴 VaultWarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7131,7 +7131,7 @@
             "last_commit": "2026-08-13T14:46:28Z",
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 65456
+            "stars": 65509
           }
         },
         {
@@ -7145,7 +7145,7 @@
             "last_commit": "2026-08-12T19:03:37Z",
             "owner": "keepassxreboot",
             "repo": "keepassxc",
-            "stars": 28401
+            "stars": 28414
           }
         },
         {
@@ -7173,7 +7173,7 @@
             "last_commit": "2026-08-14T09:00:37Z",
             "owner": "gopasspw",
             "repo": "gopass",
-            "stars": 7088
+            "stars": 7090
           }
         },
         {
@@ -7212,7 +7212,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T19:44:28Z",
+            "last_commit": "2026-08-16T21:01:37Z",
             "owner": "authpass",
             "repo": "authpass",
             "stars": 2762
@@ -7235,7 +7235,7 @@
             "last_commit": "2026-08-13T15:11:45Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72385
+            "stars": 72422
           }
         },
         {
@@ -7246,10 +7246,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T03:00:55Z",
+            "last_commit": "2026-08-16T21:34:06Z",
             "owner": "radareorg",
             "repo": "radare2",
-            "stars": 24579
+            "stars": 24586
           }
         },
         {
@@ -7263,13 +7263,13 @@
             "last_commit": "2026-08-13T22:31:03Z",
             "owner": "rizinorg",
             "repo": "cutter",
-            "stars": 19469
+            "stars": 19470
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2947⭐ 345🍴 edb-debugger) - edb is a cross platform AArch32/x86/x86-64 debugger. It was inspired by Ollydbg.",
+          "description": "2949⭐ 345🍴 edb-debugger) - edb is a cross platform AArch32/x86/x86-64 debugger. It was inspired by Ollydbg.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7277,7 +7277,7 @@
             "last_commit": "2026-08-14T14:14:22Z",
             "owner": "eteran",
             "repo": "edb-debugger",
-            "stars": 2949
+            "stars": 2948
           }
         }
       ],
@@ -7289,7 +7289,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "18370⭐ 1489🍴 Fail2ban) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.",
+          "description": "18387⭐ 1493🍴 Fail2ban) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7297,7 +7297,7 @@
             "last_commit": "2026-08-15T22:23:16Z",
             "owner": "fail2ban",
             "repo": "fail2ban",
-            "stars": 18387
+            "stars": 18395
           }
         },
         {
@@ -7311,7 +7311,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16158
+            "stars": 16161
           }
         },
         {
@@ -7325,7 +7325,7 @@
             "last_commit": "2026-08-01T16:25:31Z",
             "owner": "cryptomator",
             "repo": "cryptomator",
-            "stars": 15885
+            "stars": 15896
           }
         },
         {
@@ -7339,7 +7339,7 @@
             "last_commit": "2026-08-13T08:21:53Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15613
+            "stars": 15621
           }
         },
         {
@@ -7353,7 +7353,7 @@
             "last_commit": "2026-07-15T13:49:22Z",
             "owner": "veracrypt",
             "repo": "VeraCrypt",
-            "stars": 11285
+            "stars": 11293
           }
         },
         {
@@ -7367,7 +7367,7 @@
             "last_commit": "2026-08-13T21:26:50Z",
             "owner": "Cisco-Talos",
             "repo": "clamav",
-            "stars": 7135
+            "stars": 7141
           }
         },
         {
@@ -7378,10 +7378,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-15T10:31:13Z",
+            "last_commit": "2026-08-16T10:31:08Z",
             "owner": "firehol",
             "repo": "blocklist-ipsets",
-            "stars": 3893
+            "stars": 3894
           }
         },
         {
@@ -7420,7 +7420,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T19:47:55Z",
+            "last_commit": "2026-08-17T02:51:11Z",
             "owner": "firehol",
             "repo": "iprange",
             "stars": 237
@@ -7462,7 +7462,7 @@
             "last_commit": "2026-08-08T02:47:29Z",
             "owner": "haiwen",
             "repo": "seafile",
-            "stars": 15121
+            "stars": 15128
           }
         },
         {
@@ -7493,10 +7493,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:52:38Z",
+            "last_commit": "2026-08-17T03:02:11Z",
             "owner": "agalwood",
             "repo": "Motrix",
-            "stars": 52471
+            "stars": 52701
           }
         },
         {
@@ -7510,7 +7510,7 @@
             "last_commit": "2026-06-25T14:49:35Z",
             "owner": "aria2",
             "repo": "aria2",
-            "stars": 41721
+            "stars": 41730
           }
         },
         {
@@ -7558,7 +7558,7 @@
             "last_commit": "2026-08-13T13:59:31Z",
             "owner": "localsend",
             "repo": "localsend",
-            "stars": 88422
+            "stars": 88508
           }
         },
         {
@@ -7569,10 +7569,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T15:59:31Z",
+            "last_commit": "2026-08-17T04:01:39Z",
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 87690
+            "stars": 87716
           }
         },
         {
@@ -7583,16 +7583,16 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T01:45:25Z",
+            "last_commit": "2026-08-16T13:52:39Z",
             "owner": "schollz",
             "repo": "croc",
-            "stars": 39809
+            "stars": 39837
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "22816⭐ 750🍴 Wormhole) - Get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.",
+          "description": "22821⭐ 750🍴 Wormhole) - Get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7600,7 +7600,7 @@
             "last_commit": "2026-07-26T19:25:48Z",
             "owner": "magic-wormhole",
             "repo": "magic-wormhole",
-            "stars": 22821
+            "stars": 22824
           }
         },
         {
@@ -7614,7 +7614,7 @@
             "last_commit": "2026-07-31T06:57:15Z",
             "owner": "onionshare",
             "repo": "onionshare",
-            "stars": 7061
+            "stars": 7063
           }
         },
         {
@@ -7628,13 +7628,13 @@
             "last_commit": "2025-07-12T23:25:40Z",
             "owner": "nitroshare",
             "repo": "nitroshare-desktop",
-            "stars": 1666
+            "stars": 1667
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1571⭐ 113🍴 Warpinator) - Share files across LAN.",
+          "description": "1573⭐ 113🍴 Warpinator) - Share files across LAN.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7642,7 +7642,7 @@
             "last_commit": "2026-05-18T10:54:20Z",
             "owner": "linuxmint",
             "repo": "warpinator",
-            "stars": 1573
+            "stars": 1574
           }
         },
         {
@@ -7687,10 +7687,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:04:14Z",
+            "last_commit": "2026-08-17T04:21:21Z",
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "stars": 120903
+            "stars": 121027
           }
         },
         {
@@ -7721,16 +7721,16 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T10:32:15Z",
+            "last_commit": "2026-08-17T01:05:06Z",
             "owner": "qbittorrent",
             "repo": "qBittorrent",
-            "stars": 39491
+            "stars": 39509
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "26380⭐ 1432🍴 qBittorrent Enhanced Edition) - qBittorrent Enhanced is fork of qBittorrent that features peer whitelist/blacklist, auto update public tracker list and more.",
+          "description": "26390⭐ 1431🍴 qBittorrent Enhanced Edition) - qBittorrent Enhanced is fork of qBittorrent that features peer whitelist/blacklist, auto update public tracker list and more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7738,7 +7738,7 @@
             "last_commit": "2026-07-19T17:30:23Z",
             "owner": "c0re100",
             "repo": "qBittorrent-Enhanced-Edition",
-            "stars": 26387
+            "stars": 26394
           }
         },
         {
@@ -7766,7 +7766,7 @@
             "last_commit": "2026-08-13T21:02:23Z",
             "owner": "transmission-remote-gui",
             "repo": "transgui",
-            "stars": 3452
+            "stars": 3453
           }
         }
       ],
@@ -7786,7 +7786,7 @@
             "last_commit": "2026-08-12T04:03:12Z",
             "owner": "Eugeny",
             "repo": "tabby",
-            "stars": 73934
+            "stars": 73953
           }
         },
         {
@@ -7800,7 +7800,7 @@
             "last_commit": "2026-08-03T08:50:06Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65388
+            "stars": 65400
           }
         },
         {
@@ -7811,10 +7811,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T04:12:25Z",
+            "last_commit": "2026-08-17T04:22:17Z",
             "owner": "warpdotdev",
             "repo": "warp",
-            "stars": 64242
+            "stars": 64259
           }
         },
         {
@@ -7825,16 +7825,16 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-16T04:11:24Z",
+            "last_commit": "2026-08-17T04:13:01Z",
             "owner": "ghostty-org",
             "repo": "ghostty",
-            "stars": 59700
+            "stars": 59753
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "45043⭐ 3182🍴 eDEX-UI) - eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.",
+          "description": "45047⭐ 3186🍴 eDEX-UI) - eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -7842,7 +7842,7 @@
             "last_commit": "2021-10-19T22:38:47Z",
             "owner": "GitSquared",
             "repo": "edex-ui",
-            "stars": 45047
+            "stars": 45046
           }
         },
         {
@@ -7856,7 +7856,7 @@
             "last_commit": "2026-06-29T11:03:02Z",
             "owner": "vercel",
             "repo": "hyper",
-            "stars": 44699
+            "stars": 44691
           }
         },
         {
@@ -7870,7 +7870,7 @@
             "last_commit": "2026-08-13T08:19:13Z",
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 34920
+            "stars": 34940
           }
         },
         {
@@ -7881,10 +7881,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:41:41Z",
+            "last_commit": "2026-08-17T03:53:08Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34417
+            "stars": 34428
           }
         },
         {
@@ -7898,13 +7898,13 @@
             "last_commit": "2026-08-15T12:38:15Z",
             "owner": "wezterm",
             "repo": "wezterm",
-            "stars": 28378
+            "stars": 28391
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "25919⭐ 1000🍴 Cool Retro Term) - A good looking terminal that mimicks the old cathode display.",
+          "description": "25925⭐ 1001🍴 Cool Retro Term) - A good looking terminal that mimicks the old cathode display.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7912,7 +7912,7 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25926
+            "stars": 25929
           }
         },
         {
@@ -7926,7 +7926,7 @@
             "last_commit": "2026-08-11T18:53:52Z",
             "owner": "wavetermdev",
             "repo": "waveterm",
-            "stars": 22029
+            "stars": 22045
           }
         },
         {
@@ -7940,7 +7940,7 @@
             "last_commit": "2026-08-15T18:52:44Z",
             "owner": "saulpw",
             "repo": "visidata",
-            "stars": 9241
+            "stars": 9243
           }
         },
         {
@@ -7979,16 +7979,16 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T12:00:42Z",
+            "last_commit": "2026-08-16T20:52:10Z",
             "owner": "contour-terminal",
             "repo": "contour",
-            "stars": 2983
+            "stars": 2987
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2638⭐ 314🍴 Terminator) - Feature filled terminal emulator that supports tabs and grids.",
+          "description": "2638⭐ 313🍴 Terminator) - Feature filled terminal emulator that supports tabs and grids.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8002,7 +8002,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1340⭐ 178🍴 Tilda) - A Gtk based drop down terminal for Linux and Unix.",
+          "description": "1341⭐ 178🍴 Tilda) - A Gtk based drop down terminal for Linux and Unix.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8035,7 +8035,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-07-11T15:35:15Z",
+            "last_commit": "2026-08-16T16:26:03Z",
             "owner": "borisfaure",
             "repo": "terminology",
             "stars": 735
@@ -8088,10 +8088,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T02:55:51Z",
+            "last_commit": "2026-08-17T04:08:40Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 188742
+            "stars": 188817
           }
         },
         {
@@ -8105,7 +8105,7 @@
             "last_commit": "2026-08-11T23:23:12Z",
             "owner": "helix-editor",
             "repo": "helix",
-            "stars": 45834
+            "stars": 45841
           }
         },
         {
@@ -8119,7 +8119,7 @@
             "last_commit": "2026-07-15T11:27:37Z",
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38741
+            "stars": 38744
           }
         },
         {
@@ -8147,7 +8147,7 @@
             "last_commit": "2026-08-12T12:43:33Z",
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 32832
+            "stars": 32850
           }
         },
         {
@@ -8161,7 +8161,7 @@
             "last_commit": "2022-06-17T00:20:21Z",
             "owner": "LightTable",
             "repo": "LightTable",
-            "stars": 11689
+            "stars": 11688
           }
         },
         {
@@ -8175,7 +8175,7 @@
             "last_commit": "2026-08-12T01:47:08Z",
             "owner": "pulsar-edit",
             "repo": "pulsar",
-            "stars": 4135
+            "stars": 4137
           }
         },
         {
@@ -8186,10 +8186,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T20:24:47Z",
+            "last_commit": "2026-08-16T21:32:15Z",
             "owner": "Alexey-T",
             "repo": "CudaText",
-            "stars": 3144
+            "stars": 3145
           }
         },
         {
@@ -8262,10 +8262,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vim Script",
-            "last_commit": "2026-08-16T03:25:37Z",
+            "last_commit": "2026-08-17T03:25:59Z",
             "owner": "neovim",
             "repo": "neovim",
-            "stars": 101824
+            "stars": 101854
           }
         },
         {
@@ -8276,10 +8276,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vim Script",
-            "last_commit": "2026-08-15T02:34:30Z",
+            "last_commit": "2026-08-16T19:38:42Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40739
+            "stars": 40741
           }
         },
         {
@@ -8293,7 +8293,7 @@
             "last_commit": "2026-07-03T12:44:31Z",
             "owner": "NvChad",
             "repo": "NvChad",
-            "stars": 28435
+            "stars": 28439
           }
         },
         {
@@ -8307,18 +8307,18 @@
             "last_commit": "2026-08-11T20:30:31Z",
             "owner": "syl20bnr",
             "repo": "spacemacs",
-            "stars": 24576
+            "stars": 24554
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "22576⭐ 3159🍴 Doom Emacs) - An Emacs framework for the stubborn martian hacker.",
+          "description": "22585⭐ 3158🍴 Doom Emacs) - An Emacs framework for the stubborn martian hacker.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Emacs Lisp",
-            "last_commit": "2026-08-06T23:55:56Z",
+            "last_commit": "2026-08-16T06:28:29Z",
             "owner": "doomemacs",
             "repo": "core",
             "stars": 22584
@@ -8335,7 +8335,7 @@
             "last_commit": "2025-02-17T14:14:00Z",
             "owner": "wsdjeg",
             "repo": "SpaceVim",
-            "stars": 20223
+            "stars": 20221
           }
         },
         {
@@ -8363,7 +8363,7 @@
             "last_commit": "2026-08-12T05:40:28Z",
             "owner": "neovide",
             "repo": "neovide",
-            "stars": 15169
+            "stars": 15172
           }
         },
         {
@@ -8377,7 +8377,7 @@
             "last_commit": "2026-08-13T20:39:14Z",
             "owner": "AstroNvim",
             "repo": "AstroNvim",
-            "stars": 14413
+            "stars": 14414
           }
         },
         {
@@ -8391,7 +8391,7 @@
             "last_commit": "2026-08-10T23:11:09Z",
             "owner": "mawww",
             "repo": "kakoune",
-            "stars": 11026
+            "stars": 11024
           }
         },
         {
@@ -8402,10 +8402,10 @@
           "repo_info": {
             "archived": false,
             "language": "Emacs Lisp",
-            "last_commit": "2026-08-16T01:49:51Z",
+            "last_commit": "2026-08-16T19:33:51Z",
             "owner": "emacs-mirror",
             "repo": "emacs",
-            "stars": 5152
+            "stars": 5160
           }
         }
       ],
@@ -8422,16 +8422,16 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T00:18:00Z",
+            "last_commit": "2026-08-17T00:17:18Z",
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29345
+            "stars": 29355
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "14460⭐ 904🍴 Notepad Next) - A cross-platform, reimplementation of Notepad++.",
+          "description": "14473⭐ 905🍴 Notepad Next) - A cross-platform, reimplementation of Notepad++.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8439,7 +8439,7 @@
             "last_commit": "2026-08-15T16:14:00Z",
             "owner": "dail8859",
             "repo": "NotepadNext",
-            "stars": 14473
+            "stars": 14482
           }
         },
         {
@@ -8478,7 +8478,7 @@
             "last_commit": "2026-08-06T04:51:23Z",
             "owner": "ventoy",
             "repo": "Ventoy",
-            "stars": 78738
+            "stars": 78763
           }
         },
         {
@@ -8492,7 +8492,7 @@
             "last_commit": "2026-06-02T09:25:23Z",
             "owner": "balena-io",
             "repo": "etcher",
-            "stars": 34163
+            "stars": 34170
           }
         },
         {
@@ -8506,7 +8506,7 @@
             "last_commit": "2024-03-07T20:44:17Z",
             "owner": "imsnif",
             "repo": "diskonaut",
-            "stars": 3114
+            "stars": 3115
           }
         },
         {
@@ -8526,7 +8526,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1671⭐ 64🍴 KDiskMark) - A simple open-source disk benchmark tool for Linux distros, similar to CrystalDiskmark on Windows.",
+          "description": "1674⭐ 64🍴 KDiskMark) - A simple open-source disk benchmark tool for Linux distros, similar to CrystalDiskmark on Windows.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8540,7 +8540,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1461⭐ 209🍴 MultiBootUSB) - MultiBootUSB allows you to install multiple live linux on a USB disk.",
+          "description": "1463⭐ 208🍴 MultiBootUSB) - MultiBootUSB allows you to install multiple live linux on a USB disk.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8554,7 +8554,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "848⭐ 94🍴 Popsicle) - Popsicle is a Linux utility for flashing multiple USB devices in parallel, written in Rust.",
+          "description": "849⭐ 94🍴 Popsicle) - Popsicle is a Linux utility for flashing multiple USB devices in parallel, written in Rust.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8576,7 +8576,7 @@
             "last_commit": "2026-04-15T01:50:55Z",
             "owner": "zevv",
             "repo": "duc",
-            "stars": 704
+            "stars": 705
           }
         },
         {
@@ -8621,24 +8621,24 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T21:44:05Z",
+            "last_commit": "2026-08-16T22:13:25Z",
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17507
+            "stars": 17508
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "13675⭐ 420🍴 Yay) - Yet another Yogurt - An AUR Helper written in Go.",
+          "description": "13678⭐ 420🍴 Yay) - Yet another Yogurt - An AUR Helper written in Go.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T01:26:40Z",
+            "last_commit": "2026-08-16T08:59:10Z",
             "owner": "Jguer",
             "repo": "yay",
-            "stars": 13678
+            "stars": 13680
           }
         },
         {
@@ -8652,13 +8652,13 @@
             "last_commit": "2024-02-10T13:08:58Z",
             "owner": "oguzhaninan",
             "repo": "Stacer",
-            "stars": 9311
+            "stars": 9312
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "8939⭐ 323🍴 Paru) - Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.",
+          "description": "8938⭐ 323🍴 Paru) - Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8666,13 +8666,13 @@
             "last_commit": "2026-01-09T07:31:27Z",
             "owner": "Morganamilo",
             "repo": "paru",
-            "stars": 8938
+            "stars": 8941
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "8224⭐ 343🍴 AppImageLauncher) - Helper application for Linux distributions serving as a kind of \"entry point\" for running and integrating AppImages.",
+          "description": "8231⭐ 344🍴 AppImageLauncher) - Helper application for Linux distributions serving as a kind of \"entry point\" for running and integrating AppImages.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8680,7 +8680,7 @@
             "last_commit": "2026-03-09T04:21:55Z",
             "owner": "TheAssassin",
             "repo": "AppImageLauncher",
-            "stars": 8231
+            "stars": 8233
           }
         },
         {
@@ -8691,10 +8691,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T23:51:27Z",
+            "last_commit": "2026-08-17T02:59:12Z",
             "owner": "bleachbit",
             "repo": "bleachbit",
-            "stars": 6579
+            "stars": 6588
           }
         },
         {
@@ -8705,16 +8705,16 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T16:27:38Z",
+            "last_commit": "2026-08-16T08:53:52Z",
             "owner": "sahib",
             "repo": "rmlint",
-            "stars": 2397
+            "stars": 2398
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1393⭐ 95🍴 bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications.",
+          "description": "1395⭐ 95🍴 bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8722,7 +8722,7 @@
             "last_commit": "2024-10-13T12:58:41Z",
             "owner": "vinifmor",
             "repo": "bauh",
-            "stars": 1395
+            "stars": 1396
           }
         },
         {
@@ -8781,16 +8781,16 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T00:11:27Z",
+            "last_commit": "2026-08-17T00:10:17Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80194
+            "stars": 80205
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "11896⭐ 342🍴 bandwhich) - Terminal bandwidth utilization tool.",
+          "description": "11897⭐ 342🍴 bandwhich) - Terminal bandwidth utilization tool.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8798,7 +8798,7 @@
             "last_commit": "2026-08-01T01:34:33Z",
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11897
+            "stars": 11902
           }
         },
         {
@@ -8826,7 +8826,7 @@
             "last_commit": "2026-08-07T21:22:17Z",
             "owner": "vergoh",
             "repo": "vnstat",
-            "stars": 1756
+            "stars": 1757
           }
         },
         {
@@ -8854,7 +8854,7 @@
             "last_commit": "2023-05-26T21:29:22Z",
             "owner": "KrispyCamel4u",
             "repo": "SysMonTask",
-            "stars": 738
+            "stars": 739
           }
         },
         {
@@ -8868,7 +8868,7 @@
             "last_commit": "2026-05-21T07:32:48Z",
             "owner": "vagnum08",
             "repo": "cpupower-gui",
-            "stars": 582
+            "stars": 583
           }
         }
       ],
@@ -8880,7 +8880,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "147596⭐ 13592🍴 scrcpy) - Display and control your Android device.",
+          "description": "147714⭐ 13602🍴 scrcpy) - Display and control your Android device.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8888,7 +8888,7 @@
             "last_commit": "2026-08-14T15:22:32Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 147711
+            "stars": 147780
           }
         },
         {
@@ -8902,7 +8902,7 @@
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77411
+            "stars": 77412
           }
         },
         {
@@ -8916,7 +8916,7 @@
             "last_commit": "2026-08-04T11:14:35Z",
             "owner": "pi-hole",
             "repo": "pi-hole",
-            "stars": 60384
+            "stars": 60410
           }
         },
         {
@@ -8930,7 +8930,7 @@
             "last_commit": "2026-08-04T19:20:17Z",
             "owner": "upscayl",
             "repo": "upscayl",
-            "stars": 48303
+            "stars": 48360
           }
         },
         {
@@ -8950,7 +8950,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "26871⭐ 742🍴 Glow) - Render markdown on the CLI, with pizzazz! 💅🏻",
+          "description": "26893⭐ 745🍴 Glow) - Render markdown on the CLI, with pizzazz! 💅🏻",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8958,13 +8958,13 @@
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26893
+            "stars": 26913
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "16316⭐ 694🍴 rofi) - A window switcher, Application launcher and dmenu replacement.",
+          "description": "16323⭐ 693🍴 rofi) - A window switcher, Application launcher and dmenu replacement.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8972,7 +8972,7 @@
             "last_commit": "2026-08-09T16:07:51Z",
             "owner": "davatorium",
             "repo": "rofi",
-            "stars": 16322
+            "stars": 16324
           }
         },
         {
@@ -8986,7 +8986,7 @@
             "last_commit": "2026-03-22T20:20:13Z",
             "owner": "mobile-shell",
             "repo": "mosh",
-            "stars": 14349
+            "stars": 14352
           }
         },
         {
@@ -8997,16 +8997,16 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T09:29:41Z",
+            "last_commit": "2026-08-16T09:24:07Z",
             "owner": "FreeRDP",
             "repo": "FreeRDP",
-            "stars": 13550
+            "stars": 13555
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "13420⭐ 854🍴 Cheat) - Cheat allows you to create and view interactive cheatsheets on the command-line.",
+          "description": "13423⭐ 854🍴 Cheat) - Cheat allows you to create and view interactive cheatsheets on the command-line.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9014,7 +9014,7 @@
             "last_commit": "2026-05-19T16:11:23Z",
             "owner": "cheat",
             "repo": "cheat",
-            "stars": 13423
+            "stars": 13424
           }
         },
         {
@@ -9028,13 +9028,13 @@
             "last_commit": "2026-08-14T19:15:05Z",
             "owner": "nmap",
             "repo": "nmap",
-            "stars": 13363
+            "stars": 13364
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "9216⭐ 295🍴 mapscii) - MapSCII is a Braille & ASCII world map renderer for your console.",
+          "description": "9218⭐ 295🍴 mapscii) - MapSCII is a Braille & ASCII world map renderer for your console.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9048,15 +9048,15 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "9138⭐ 558🍴 Solaar) - Logitech Unifying Receiver peripherals manager for Linux.",
+          "description": "9145⭐ 560🍴 Solaar) - Logitech Unifying Receiver peripherals manager for Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T02:51:00Z",
+            "last_commit": "2026-08-16T12:49:50Z",
             "owner": "pwr-Solaar",
             "repo": "Solaar",
-            "stars": 9145
+            "stars": 9148
           }
         },
         {
@@ -9084,13 +9084,13 @@
             "last_commit": "2026-06-29T19:40:03Z",
             "owner": "AntiMicroX",
             "repo": "antimicrox",
-            "stars": 3920
+            "stars": 3921
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "3751⭐ 256🍴 Komorebi) - Komorebi is a background manager for all Linux platforms, provides fully customizable backgrounds that can be tweaked at any time.",
+          "description": "3752⭐ 256🍴 Komorebi) - Komorebi is a background manager for all Linux platforms, provides fully customizable backgrounds that can be tweaked at any time.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9098,7 +9098,7 @@
             "last_commit": "2025-07-21T01:17:17Z",
             "owner": "christianloopp",
             "repo": "komorebi",
-            "stars": 3752
+            "stars": 3751
           }
         },
         {
@@ -9126,13 +9126,13 @@
             "last_commit": "2026-08-15T11:35:58Z",
             "owner": "gramps-project",
             "repo": "gramps",
-            "stars": 3057
+            "stars": 3058
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2868⭐ 125🍴 fast-cli) - Test your download and upload speed using fast.com.",
+          "description": "2869⭐ 125🍴 fast-cli) - Test your download and upload speed using fast.com.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9188,7 +9188,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1745⭐ 110🍴 Flatseal) - Flatseal is a graphical utility to review and modify permissions from your Flatpak applications.",
+          "description": "1749⭐ 110🍴 Flatseal) - Flatseal is a graphical utility to review and modify permissions from your Flatpak applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9196,13 +9196,13 @@
             "last_commit": "2026-08-10T11:48:52Z",
             "owner": "tchx84",
             "repo": "Flatseal",
-            "stars": 1749
+            "stars": 1753
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1735⭐ 176🍴 deb-get) - Deb-get makes is easy to install and update .debs published in 3rd party apt repositories or made available via direct download on websites or GitHub release pages.",
+          "description": "1735⭐ 177🍴 deb-get) - Deb-get makes is easy to install and update .debs published in 3rd party apt repositories or made available via direct download on websites or GitHub release pages.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9210,7 +9210,7 @@
             "last_commit": "2026-08-13T14:48:33Z",
             "owner": "wimpysworld",
             "repo": "deb-get",
-            "stars": 1735
+            "stars": 1736
           }
         },
         {
@@ -9224,7 +9224,7 @@
             "last_commit": "2026-08-05T04:35:01Z",
             "owner": "varietywalls",
             "repo": "variety",
-            "stars": 1676
+            "stars": 1677
           }
         },
         {
@@ -9238,7 +9238,7 @@
             "last_commit": "2026-08-11T15:24:50Z",
             "owner": "fenrus75",
             "repo": "powertop",
-            "stars": 1327
+            "stars": 1328
           }
         },
         {
@@ -9409,16 +9409,16 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T21:52:28Z",
+            "last_commit": "2026-08-16T23:11:52Z",
             "owner": "FFmpeg",
             "repo": "FFmpeg",
-            "stars": 63336
+            "stars": 63359
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "42901⭐ 2117🍴 LosslessCut) - The swiss army knife of lossless video/audio editing.",
+          "description": "42953⭐ 2120🍴 LosslessCut) - The swiss army knife of lossless video/audio editing.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9426,7 +9426,7 @@
             "last_commit": "2026-08-14T22:07:25Z",
             "owner": "mifi",
             "repo": "lossless-cut",
-            "stars": 42952
+            "stars": 42981
           }
         },
         {
@@ -9437,10 +9437,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T21:24:50Z",
+            "last_commit": "2026-08-16T11:43:20Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36551
+            "stars": 36558
           }
         },
         {
@@ -9451,10 +9451,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T14:35:05Z",
+            "last_commit": "2026-08-16T13:26:08Z",
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21096
+            "stars": 21097
           }
         },
         {
@@ -9468,7 +9468,7 @@
             "last_commit": "2026-08-14T19:50:10Z",
             "owner": "jellyfin",
             "repo": "jellyfin-desktop",
-            "stars": 5605
+            "stars": 5609
           }
         },
         {
@@ -9561,10 +9561,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T03:51:26Z",
+            "last_commit": "2026-08-16T21:02:25Z",
             "owner": "mullvad",
             "repo": "mullvadvpn-app",
-            "stars": 7468
+            "stars": 7472
           }
         },
         {
@@ -9578,7 +9578,7 @@
             "last_commit": "2026-08-14T17:32:23Z",
             "owner": "Windscribe",
             "repo": "Desktop-App",
-            "stars": 1058
+            "stars": 1059
           }
         },
         {
@@ -9589,10 +9589,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T06:26:17Z",
+            "last_commit": "2026-08-16T06:03:54Z",
             "owner": "mozilla-mobile",
             "repo": "mozilla-vpn-client",
-            "stars": 628
+            "stars": 629
           }
         },
         {
@@ -9623,10 +9623,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T21:00:16Z",
+            "last_commit": "2026-08-16T21:29:55Z",
             "owner": "dokuwiki",
             "repo": "dokuwiki",
-            "stars": 4699
+            "stars": 4698
           }
         },
         {
@@ -9640,7 +9640,7 @@
             "last_commit": "2026-08-05T16:29:50Z",
             "owner": "TiddlyWiki",
             "repo": "TiddlyDesktop",
-            "stars": 1908
+            "stars": 1907
           }
         }
       ],
@@ -9660,7 +9660,7 @@
             "last_commit": "2026-08-10T19:47:54Z",
             "owner": "fontforge",
             "repo": "fontforge",
-            "stars": 7896
+            "stars": 7897
           }
         },
         {
@@ -9680,7 +9680,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "5922⭐ 223🍴 Piper) - Piper is a GTK+ application to configure gaming mice.",
+          "description": "5925⭐ 222🍴 Piper) - Piper is a GTK+ application to configure gaming mice.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9716,7 +9716,7 @@
             "last_commit": "2026-08-07T19:13:47Z",
             "owner": "z411",
             "repo": "trackma",
-            "stars": 887
+            "stars": 888
           }
         }
       ],
@@ -9733,7 +9733,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "184369⭐ 15870🍴 yt-dlp) - A youtube-dl fork with additional features and fixes.",
+          "description": "184689⭐ 15908🍴 yt-dlp) - A youtube-dl fork with additional features and fixes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9741,7 +9741,7 @@
             "last_commit": "2026-08-16T01:54:39Z",
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 184681
+            "stars": 184922
           }
         },
         {
@@ -9755,13 +9755,13 @@
             "last_commit": "2026-02-19T16:45:25Z",
             "owner": "ytdl-org",
             "repo": "youtube-dl",
-            "stars": 140953
+            "stars": 140975
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "19207⭐ 1457🍴 gallery-dl) - Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more.",
+          "description": "19226⭐ 1457🍴 gallery-dl) - Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9769,21 +9769,21 @@
             "last_commit": "2026-08-01T09:53:37Z",
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19225
+            "stars": 19240
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "13564⭐ 1124🍴 dnscrypt-proxy) - DNS proxy with support for encrypted DNS protocols,cross platform.",
+          "description": "13569⭐ 1126🍴 dnscrypt-proxy) - DNS proxy with support for encrypted DNS protocols,cross platform.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T06:25:53Z",
+            "last_commit": "2026-08-17T03:52:51Z",
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13569
+            "stars": 13576
           }
         },
         {
@@ -9797,13 +9797,13 @@
             "last_commit": "2026-08-12T10:11:31Z",
             "owner": "streamlink",
             "repo": "streamlink",
-            "stars": 11692
+            "stars": 11693
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "8779⭐ 671🍴 mps-youtube) - A terminal based program for searching, streaming and downloading music. This implementation uses YouTube as a source of content and can play and download video as well as audio.",
+          "description": "8780⭐ 671🍴 mps-youtube) - A terminal based program for searching, streaming and downloading music. This implementation uses YouTube as a source of content and can play and download video as well as audio.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9845,7 +9845,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "4188⭐ 164🍴 tmpmail) - A temporary email right from your terminal written in POSIX sh.",
+          "description": "4187⭐ 164🍴 tmpmail) - A temporary email right from your terminal written in POSIX sh.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9864,7 +9864,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T01:12:08Z",
+            "last_commit": "2026-08-17T02:09:55Z",
             "owner": "PurpleI2P",
             "repo": "i2pd",
             "stars": 4169
@@ -9895,7 +9895,7 @@
             "last_commit": "2024-08-15T09:11:15Z",
             "owner": "deepjyoti30",
             "repo": "ytmdl",
-            "stars": 3529
+            "stars": 3530
           }
         },
         {
@@ -9915,21 +9915,21 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "3524⭐ 168🍴 ddgr) - DuckDuckGo from the command line.",
+          "description": "3526⭐ 168🍴 ddgr) - DuckDuckGo from the command line.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:57:52Z",
+            "last_commit": "2026-08-16T04:53:53Z",
             "owner": "jarun",
             "repo": "ddgr",
-            "stars": 3525
+            "stars": 3526
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "2044⭐ 182🍴 Linux-router) - Set Linux as router in one command. Can share Internet, create WiFi hotspot, or route VM/containers.",
+          "description": "2045⭐ 182🍴 Linux-router) - Set Linux as router in one command. Can share Internet, create WiFi hotspot, or route VM/containers.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9991,7 +9991,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "33976⭐ 1117🍴 btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.",
+          "description": "34006⭐ 1120🍴 btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9999,7 +9999,7 @@
             "last_commit": "2026-08-08T19:49:45Z",
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34006
+            "stars": 34014
           }
         },
         {
@@ -10013,13 +10013,13 @@
             "last_commit": "2026-08-15T14:45:51Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33376
+            "stars": 33364
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "28650⭐ 506🍴 hyperfine) - A command-line benchmarking tool.",
+          "description": "28657⭐ 506🍴 hyperfine) - A command-line benchmarking tool.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10027,7 +10027,7 @@
             "last_commit": "2026-04-30T08:23:25Z",
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28657
+            "stars": 28662
           }
         },
         {
@@ -10038,10 +10038,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T02:52:52Z",
+            "last_commit": "2026-08-17T02:48:22Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24213
+            "stars": 24229
           }
         },
         {
@@ -10052,16 +10052,16 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T01:16:42Z",
+            "last_commit": "2026-08-17T04:13:03Z",
             "owner": "ClementTsang",
             "repo": "bottom",
-            "stars": 13888
+            "stars": 13897
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "10911⭐ 417🍴 NVTOP) - GPUs process monitoring for AMD, Intel and NVIDIA.",
+          "description": "10921⭐ 417🍴 NVTOP) - GPUs process monitoring for AMD, Intel and NVIDIA.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10069,13 +10069,13 @@
             "last_commit": "2026-05-06T06:41:23Z",
             "owner": "Syllo",
             "repo": "nvtop",
-            "stars": 10921
+            "stars": 10923
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "10918⭐ 423🍴 bpytop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port and continuation of bashtop.",
+          "description": "10917⭐ 423🍴 bpytop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port and continuation of bashtop.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10083,13 +10083,13 @@
             "last_commit": "2025-06-01T20:57:08Z",
             "owner": "aristocratos",
             "repo": "bpytop",
-            "stars": 10917
+            "stars": 10915
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "9924⭐ 337🍴 gtop) - A system monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts, and etc.",
+          "description": "9925⭐ 337🍴 gtop) - A system monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts, and etc.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10097,13 +10097,13 @@
             "last_commit": "2025-11-06T13:55:02Z",
             "owner": "aksakalli",
             "repo": "gtop",
-            "stars": 9925
+            "stars": 9928
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "7722⭐ 356🍴 auto-cpufreq) - Automatic CPU speed & power optimizer for Linux.",
+          "description": "7728⭐ 358🍴 auto-cpufreq) - Automatic CPU speed & power optimizer for Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10111,7 +10111,7 @@
             "last_commit": "2026-08-12T15:27:06Z",
             "owner": "AdnanHodzic",
             "repo": "auto-cpufreq",
-            "stars": 7728
+            "stars": 7731
           }
         },
         {
@@ -10125,7 +10125,7 @@
             "last_commit": "2020-11-17T07:00:48Z",
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5900
+            "stars": 5896
           }
         },
         {
@@ -10139,7 +10139,7 @@
             "last_commit": "2026-08-15T11:47:06Z",
             "owner": "amanusk",
             "repo": "s-tui",
-            "stars": 5067
+            "stars": 5066
           }
         },
         {
@@ -10153,7 +10153,7 @@
             "last_commit": "2026-03-02T03:08:18Z",
             "owner": "KittyKatt",
             "repo": "screenFetch",
-            "stars": 4068
+            "stars": 4069
           }
         },
         {
@@ -10193,7 +10193,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "97686⭐ 3960🍴 TheFuck) - Magnificent app which corrects your previous console command.",
+          "description": "97710⭐ 3959🍴 TheFuck) - Magnificent app which corrects your previous console command.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10201,27 +10201,27 @@
             "last_commit": "2024-07-19T14:56:13Z",
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97709
+            "stars": 97713
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "82555⭐ 2873🍴 fzf) - A general-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.",
+          "description": "82545⭐ 2853🍴 fzf) - A general-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T10:16:53Z",
+            "last_commit": "2026-08-17T03:11:26Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82546
+            "stars": 82550
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "67312⭐ 2731🍴 ripgrep) - Ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern.",
+          "description": "67317⭐ 2714🍴 ripgrep) - Ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10229,7 +10229,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67316
+            "stars": 67336
           }
         },
         {
@@ -10240,16 +10240,16 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-16T03:06:25Z",
+            "last_commit": "2026-08-17T00:05:11Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63410
+            "stars": 63418
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "60234⭐ 1645🍴 bat) - A cat clone with syntax highlighting and Git integration.",
+          "description": "60189⭐ 1630🍴 bat) - A cat clone with syntax highlighting and Git integration.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10257,41 +10257,41 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60189
+            "stars": 60192
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "59399⭐ 2628🍴 Starship) - A minimal, blazingly fast and infinitely customizable prompt for any shell, cross-platform.",
+          "description": "59421⭐ 2628🍴 Starship) - A minimal, blazingly fast and infinitely customizable prompt for any shell, cross-platform.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T02:15:32Z",
+            "last_commit": "2026-08-17T03:06:43Z",
             "owner": "starship",
             "repo": "starship",
-            "stars": 59420
+            "stars": 59435
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "48613⭐ 2827🍴 Tmux) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.",
+          "description": "48647⭐ 2833🍴 Tmux) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T17:57:56Z",
+            "last_commit": "2026-08-16T23:30:55Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48646
+            "stars": 48664
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "44076⭐ 1110🍴 fd) - A simple, fast and user-friendly alternative to 'find'.",
+          "description": "44096⭐ 1113🍴 fd) - A simple, fast and user-friendly alternative to 'find'.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10299,13 +10299,13 @@
             "last_commit": "2026-08-11T17:42:55Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44096
+            "stars": 44108
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "38642⭐ 862🍴 zoxide) - A better way to navigate your filesystem written in Rust.",
+          "description": "38664⭐ 863🍴 zoxide) - A better way to navigate your filesystem written in Rust.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10313,7 +10313,7 @@
             "last_commit": "2026-08-10T18:53:37Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38664
+            "stars": 38684
           }
         },
         {
@@ -10327,7 +10327,7 @@
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27202
+            "stars": 27196
           }
         },
         {
@@ -10341,13 +10341,13 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27110
+            "stars": 27102
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "23429⭐ 1121🍴 Cloc) - Count Lines of Code: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+          "description": "23436⭐ 1121🍴 Cloc) - Count Lines of Code: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10355,13 +10355,13 @@
             "last_commit": "2026-08-08T13:26:32Z",
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23436
+            "stars": 23439
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "23208⭐ 659🍴 Age) - Simple, Modern, Secure encryption tool.",
+          "description": "23227⭐ 659🍴 Age) - Simple, Modern, Secure encryption tool.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10369,7 +10369,7 @@
             "last_commit": "2026-03-20T21:12:32Z",
             "owner": "FiloSottile",
             "repo": "age",
-            "stars": 23226
+            "stars": 23234
           }
         },
         {
@@ -10383,13 +10383,13 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 22946
+            "stars": 22955
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "20625⭐ 461🍴 VHS) - Your CLI home video recorder vhs",
+          "description": "20645⭐ 461🍴 VHS) - Your CLI home video recorder vhs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10397,13 +10397,13 @@
             "last_commit": "2026-08-12T21:02:35Z",
             "owner": "charmbracelet",
             "repo": "vhs",
-            "stars": 20645
+            "stars": 20650
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "17425⭐ 555🍴 navi) - An interactive cheatsheet tool for the command-line.",
+          "description": "17438⭐ 557🍴 navi) - An interactive cheatsheet tool for the command-line.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10411,27 +10411,27 @@
             "last_commit": "2026-07-28T09:05:10Z",
             "owner": "denisidoro",
             "repo": "navi",
-            "stars": 17438
+            "stars": 17445
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "16166⭐ 509🍴 lsd) - The next gen ls command.",
+          "description": "16171⭐ 510🍴 lsd) - The next gen ls command.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-25T17:02:07Z",
+            "last_commit": "2026-08-16T16:37:49Z",
             "owner": "lsd-rs",
             "repo": "lsd",
-            "stars": 16171
+            "stars": 16174
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "15262⭐ 467🍴 duf) - Disk Usage/Free Utility - a better 'df' alternative.",
+          "description": "15265⭐ 468🍴 duf) - Disk Usage/Free Utility - a better 'df' alternative.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10439,7 +10439,7 @@
             "last_commit": "2026-01-13T11:07:14Z",
             "owner": "muesli",
             "repo": "duf",
-            "stars": 15264
+            "stars": 15265
           }
         },
         {
@@ -10450,16 +10450,16 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T19:30:51Z",
+            "last_commit": "2026-08-16T20:15:46Z",
             "owner": "Canop",
             "repo": "broot",
-            "stars": 12893
+            "stars": 12895
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "12617⭐ 366🍴 gping) - ping but with graph, cross platform.",
+          "description": "12622⭐ 367🍴 gping) - ping but with graph, cross platform.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10467,7 +10467,7 @@
             "last_commit": "2026-08-10T10:33:12Z",
             "owner": "orf",
             "repo": "gping",
-            "stars": 12622
+            "stars": 12624
           }
         },
         {
@@ -10478,10 +10478,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T22:33:52Z",
+            "last_commit": "2026-08-17T01:51:53Z",
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12022
+            "stars": 12023
           }
         },
         {
@@ -10495,13 +10495,13 @@
             "last_commit": "2026-07-08T18:44:50Z",
             "owner": "maaslalani",
             "repo": "slides",
-            "stars": 11617
+            "stars": 11618
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "10756⭐ 325🍴 xsv) - A fast CSV command line toolkit written in Rust.",
+          "description": "10757⭐ 325🍴 xsv) - A fast CSV command line toolkit written in Rust.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -10509,13 +10509,13 @@
             "last_commit": "2025-04-24T13:09:22Z",
             "owner": "BurntSushi",
             "repo": "xsv",
-            "stars": 10757
+            "stars": 10756
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "9084⭐ 357🍴 pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.",
+          "description": "9082⭐ 357🍴 pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -10523,7 +10523,7 @@
             "last_commit": "2024-01-27T15:51:44Z",
             "owner": "dylanaraps",
             "repo": "pywal",
-            "stars": 9083
+            "stars": 9082
           }
         },
         {
@@ -10534,10 +10534,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T13:32:28Z",
+            "last_commit": "2026-08-16T04:31:40Z",
             "owner": "jarun",
             "repo": "buku",
-            "stars": 7177
+            "stars": 7178
           }
         },
         {
@@ -10551,7 +10551,7 @@
             "last_commit": "2025-11-09T09:58:29Z",
             "owner": "sindresorhus",
             "repo": "fkill-cli",
-            "stars": 6998
+            "stars": 6999
           }
         },
         {
@@ -10576,10 +10576,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:25:35Z",
+            "last_commit": "2026-08-16T22:55:31Z",
             "owner": "tealdeer-rs",
             "repo": "tealdeer",
-            "stars": 6428
+            "stars": 6432
           }
         },
         {
@@ -10593,7 +10593,7 @@
             "last_commit": "2026-05-06T17:53:52Z",
             "owner": "Slackadays",
             "repo": "Clipboard",
-            "stars": 5874
+            "stars": 5876
           }
         },
         {
@@ -10613,7 +10613,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "5135⭐ 396🍴 Color LS) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.",
+          "description": "5135⭐ 395🍴 Color LS) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10621,13 +10621,13 @@
             "last_commit": "2026-07-27T11:41:05Z",
             "owner": "athityakumar",
             "repo": "colorls",
-            "stars": 5135
+            "stars": 5134
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "4672⭐ 419🍴 Liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.",
+          "description": "4673⭐ 419🍴 Liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10641,7 +10641,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "3208⭐ 122🍴 ccat) - Colorizing .",
+          "description": "3207⭐ 122🍴 ccat) - Colorizing .",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10663,7 +10663,7 @@
             "last_commit": "2026-08-10T07:38:04Z",
             "owner": "skywind3000",
             "repo": "z.lua",
-            "stars": 3141
+            "stars": 3142
           }
         },
         {
@@ -10759,7 +10759,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "1599⭐ 199🍴 linux-tkg) - Scripts to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience.",
+          "description": "1597⭐ 200🍴 linux-tkg) - Scripts to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10773,7 +10773,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "734⭐ 64🍴 Linux-Hardened) - A security-focused Linux kernel applying a set of hardening patches to mitigate kernel and userspace exploits. It also enables more upstream kernel hardening features than linux.",
+          "description": "735⭐ 64🍴 Linux-Hardened) - A security-focused Linux kernel applying a set of hardening patches to mitigate kernel and userspace exploits. It also enables more upstream kernel hardening features than linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10815,7 +10815,7 @@
             "last_commit": "2026-07-29T15:16:26Z",
             "owner": "pop-os",
             "repo": "cosmic-epoch",
-            "stars": 6641
+            "stars": 6646
           }
         },
         {
@@ -10843,7 +10843,7 @@
             "last_commit": "2026-05-17T17:09:31Z",
             "owner": "lxqt",
             "repo": "lxqt",
-            "stars": 1857
+            "stars": 1859
           }
         },
         {
@@ -10857,7 +10857,7 @@
             "last_commit": "2026-08-15T11:51:09Z",
             "owner": "BuddiesOfBudgie",
             "repo": "budgie-desktop",
-            "stars": 1326
+            "stars": 1325
           }
         },
         {
@@ -10868,7 +10868,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T12:16:25Z",
+            "last_commit": "2026-08-17T02:42:08Z",
             "owner": "linuxdeepin",
             "repo": "dde-file-manager",
             "stars": 413
@@ -10902,7 +10902,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "7522⭐ 350🍴 Ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.",
+          "description": "7527⭐ 350🍴 Ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10910,7 +10910,7 @@
             "last_commit": "2026-07-31T21:59:10Z",
             "owner": "fairyglade",
             "repo": "ly",
-            "stars": 7527
+            "stars": 7529
           }
         },
         {
@@ -10924,7 +10924,7 @@
             "last_commit": "2026-06-28T12:46:42Z",
             "owner": "coastalwhite",
             "repo": "lemurs",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -10978,7 +10978,7 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "2329⭐ 384🍴 SDDM) - The QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt.",
+          "description": "2331⭐ 384🍴 SDDM) - The QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10997,10 +10997,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T23:09:41Z",
+            "last_commit": "2026-08-16T17:00:33Z",
             "owner": "ubuntu",
             "repo": "lightdm",
-            "stars": 988
+            "stars": 989
           }
         },
         {
@@ -11092,10 +11092,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T15:18:00Z",
+            "last_commit": "2026-08-16T17:56:19Z",
             "owner": "hyprwm",
             "repo": "Hyprland",
-            "stars": 37898
+            "stars": 37912
           }
         },
         {
@@ -11109,27 +11109,27 @@
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17238
+            "stars": 17240
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "4982⭐ 403🍴 Gamescope) - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.",
+          "description": "4985⭐ 404🍴 Gamescope) - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T14:02:33Z",
+            "last_commit": "2026-08-16T08:34:51Z",
             "owner": "ValveSoftware",
             "repo": "gamescope",
-            "stars": 4985
+            "stars": 4988
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "4770⭐ 630🍴 Picom) - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.",
+          "description": "4772⭐ 629🍴 Picom) - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11143,15 +11143,15 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "4244⭐ 167🍴 River) - River is a dynamic tiling Wayland compositor with flexible runtime configuration.",
+          "description": "4245⭐ 167🍴 River) - River is a dynamic tiling Wayland compositor with flexible runtime configuration.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-07T10:54:51Z",
+            "last_commit": "2026-08-16T17:10:34Z",
             "owner": "riverwm",
             "repo": "river",
-            "stars": 4245
+            "stars": 4247
           }
         },
         {
@@ -11261,7 +11261,7 @@
             "last_commit": "2026-07-28T06:22:26Z",
             "owner": "i3",
             "repo": "i3",
-            "stars": 10541
+            "stars": 10543
           }
         },
         {
@@ -11275,7 +11275,7 @@
             "last_commit": "2026-06-19T20:00:14Z",
             "owner": "baskerville",
             "repo": "bspwm",
-            "stars": 8301
+            "stars": 8303
           }
         },
         {
@@ -11289,13 +11289,13 @@
             "last_commit": "2026-08-11T18:08:47Z",
             "owner": "qtile",
             "repo": "qtile",
-            "stars": 5288
+            "stars": 5287
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "5272⭐ 300🍴 Pop!_OS Shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.",
+          "description": "5270⭐ 300🍴 Pop!_OS Shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11317,7 +11317,7 @@
             "last_commit": "2024-05-23T03:32:57Z",
             "owner": "Bismuth-Forge",
             "repo": "bismuth",
-            "stars": 2425
+            "stars": 2426
           }
         },
         {
@@ -11351,7 +11351,7 @@
             "last_commit": "2026-07-26T00:27:49Z",
             "owner": "awesomeWM",
             "repo": "awesome",
-            "stars": 6942
+            "stars": 6944
           }
         },
         {
@@ -11379,13 +11379,13 @@
             "last_commit": "2023-08-09T10:47:28Z",
             "owner": "esjeon",
             "repo": "krohnkite",
-            "stars": 2153
+            "stars": 2154
           }
         },
         {
           "node_type": "item",
           "title": "",
-          "description": "1400⭐ 105🍴 spectrwm) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.",
+          "description": "1402⭐ 105🍴 spectrwm) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11443,15 +11443,15 @@
       "title": "License"
     },
     {
-      "description": "25564⭐ 2251🍴 luong-komorebi/Awesome-Linux-Software)",
+      "description": "25566⭐ 2250🍴 luong-komorebi/Awesome-Linux-Software)",
       "items": [],
       "title": "Source"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:22:14.240Z",
+    "last_updated": "2026-08-17T04:27:03.451Z",
     "original_repository": "Correia-jpv/fucking-Awesome-Linux-Software",
-    "original_repository_sha": "f88cc1339aaff9706d92d565d5963a4928d76570",
+    "original_repository_sha": "e4776598f9f3831d8e2724d21e79fda1fc0a7eae",
     "enhanced_repository": "enhansome/enhansome-fucking-Awesome-Linux-Software",
     "enhanced_repository_description": null,
     "title": "Awesome Linux Software with stars"
